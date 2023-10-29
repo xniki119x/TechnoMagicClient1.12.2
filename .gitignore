@@ -1,8 +1,11 @@
-customnpcs
+customnpcs/
 clientsettings.txt
-crash_reports
-logs
-resourcepacks
-saves
-shaderpacks
+crash_reports/
+logs/
+resourcepacks/
+saves/
+shaderpacks/
 BotaniaVars.dat
+XaeroWorldMap/
+XaeroWaypoints/
+optionsshaders.txt

@@ -1279,6 +1279,7 @@ ic2:fluid_cell:0, Универсальная жидкостная капсула
 ic2:fluid_cell:0, Универсальная жидкостная капсула
 ic2:fluid_cell:0, Универсальная жидкостная капсула
 ic2:fluid_cell:0, Универсальная жидкостная капсула
+ic2:fluid_cell:0, Универсальная жидкостная капсула
 ic2:cable:0, Медный провод
 ic2:cable:0, Изолированный медный провод
 ic2:cable:1, Стекловолоконный провод
@@ -2687,6 +2688,12 @@ appliedenergistics2:facade:0, Кабельный фасад - Игнатиусо
 appliedenergistics2:facade:0, Кабельный фасад - Игнатиусовый кирпич
 appliedenergistics2:facade:0, Кабельный фасад - Игнатиусовые кристаллы
 appliedenergistics2:facade:0, Кабельный фасад - Игнатиусовый полосатый блок
+appliedenergistics2:facade:0, Кабельный фасад - Блок этерия
+appliedenergistics2:facade:0, Кабельный фасад - Этериумный обработанный блок
+appliedenergistics2:facade:0, Кабельный фасад - Этериумный большой кирпич
+appliedenergistics2:facade:0, Кабельный фасад - Этериумный кирпич
+appliedenergistics2:facade:0, Кабельный фасад - Этериумные кристаллы
+appliedenergistics2:facade:0, Кабельный фасад - Этериумный полосатый блок
 appliedenergistics2:facade:0, Кабельный фасад - Цинковая руда
 appliedenergistics2:facade:0, Кабельный фасад - Блок цинка
 appliedenergistics2:facade:0, Кабельный фасад - Цинковый обработанный блок
@@ -2694,12 +2701,6 @@ appliedenergistics2:facade:0, Кабельный фасад - Цинковый �
 appliedenergistics2:facade:0, Кабельный фасад - Цинковый кирпич
 appliedenergistics2:facade:0, Кабельный фасад - Цинковые кристаллы
 appliedenergistics2:facade:0, Кабельный фасад - Цинковый полосатый блок
-appliedenergistics2:facade:0, Кабельный фасад - Блок этерия
-appliedenergistics2:facade:0, Кабельный фасад - Этериумный обработанный блок
-appliedenergistics2:facade:0, Кабельный фасад - Этериумный большой кирпич
-appliedenergistics2:facade:0, Кабельный фасад - Этериумный кирпич
-appliedenergistics2:facade:0, Кабельный фасад - Этериумные кристаллы
-appliedenergistics2:facade:0, Кабельный фасад - Этериумный полосатый блок
 appliedenergistics2:facade:0, Кабельный фасад - Блок ртути
 appliedenergistics2:facade:0, Кабельный фасад - Ртутный обработанный блок
 appliedenergistics2:facade:0, Кабельный фасад - Ртутный большой кирпич
@@ -2738,13 +2739,6 @@ appliedenergistics2:facade:0, Кабельный фасад - Лемуритов
 appliedenergistics2:facade:0, Кабельный фасад - Лемуритовый кирпич
 appliedenergistics2:facade:0, Кабельный фасад - Лемуритовые кристаллы
 appliedenergistics2:facade:0, Кабельный фасад - Лемуритовый полосатый блок
-appliedenergistics2:facade:0, Кабельный фасад - Сангвинитовая руда
-appliedenergistics2:facade:0, Кабельный фасад - Блок сангвинита
-appliedenergistics2:facade:0, Кабельный фасад - Сангвинитовый обработанный блок
-appliedenergistics2:facade:0, Кабельный фасад - Сангвинитовый большой кирпич
-appliedenergistics2:facade:0, Кабельный фасад - Сангвинитовый кирпич
-appliedenergistics2:facade:0, Кабельный фасад - Сангвинитовые кристаллы
-appliedenergistics2:facade:0, Кабельный фасад - Сангвинитовый полосатый блок
 appliedenergistics2:facade:0, Кабельный фасад - Экзимитовая руда
 appliedenergistics2:facade:0, Кабельный фасад - Блок экзимита
 appliedenergistics2:facade:0, Кабельный фасад - Экзимитовый обработанный блок
@@ -2752,6 +2746,13 @@ appliedenergistics2:facade:0, Кабельный фасад - Экзимитов
 appliedenergistics2:facade:0, Кабельный фасад - Экзимитовый кирпич
 appliedenergistics2:facade:0, Кабельный фасад - Экзимитовые кристаллы
 appliedenergistics2:facade:0, Кабельный фасад - Экзимитовый полосатый блок
+appliedenergistics2:facade:0, Кабельный фасад - Сангвинитовая руда
+appliedenergistics2:facade:0, Кабельный фасад - Блок сангвинита
+appliedenergistics2:facade:0, Кабельный фасад - Сангвинитовый обработанный блок
+appliedenergistics2:facade:0, Кабельный фасад - Сангвинитовый большой кирпич
+appliedenergistics2:facade:0, Кабельный фасад - Сангвинитовый кирпич
+appliedenergistics2:facade:0, Кабельный фасад - Сангвинитовые кристаллы
+appliedenergistics2:facade:0, Кабельный фасад - Сангвинитовый полосатый блок
 appliedenergistics2:facade:0, Кабельный фасад - Серебрянная руда
 appliedenergistics2:facade:0, Кабельный фасад - Блок серебра
 appliedenergistics2:facade:0, Кабельный фасад - Серебряный обработанный блок
@@ -2771,12 +2772,6 @@ appliedenergistics2:facade:0, Кабельный фасад - Целенгиле
 appliedenergistics2:facade:0, Кабельный фасад - Целенгилевый кирпич
 appliedenergistics2:facade:0, Кабельный фасад - Целенгилевые кристаллы
 appliedenergistics2:facade:0, Кабельный фасад - Целенгилевый полосатый блок
-appliedenergistics2:facade:0, Кабельный фасад - Блок стали
-appliedenergistics2:facade:0, Кабельный фасад - Стальной обработанный блок
-appliedenergistics2:facade:0, Кабельный фасад - Стальной большой кирпич
-appliedenergistics2:facade:0, Кабельный фасад - Стальный кирпич
-appliedenergistics2:facade:0, Кабельный фасад - Стальные кристаллы
-appliedenergistics2:facade:0, Кабельный фасад - Стальной полосатый блок
 appliedenergistics2:facade:0, Кабельный фасад - Руда теневого железа
 appliedenergistics2:facade:0, Кабельный фасад - Блок теневого железа
 appliedenergistics2:facade:0, Кабельный фасад - Обработанный блок из теневого железа
@@ -2784,6 +2779,12 @@ appliedenergistics2:facade:0, Кабельный фасад - Большой к�
 appliedenergistics2:facade:0, Кабельный фасад - Кирпич из теневого железа
 appliedenergistics2:facade:0, Кабельный фасад - Кристаллы из теневого железа
 appliedenergistics2:facade:0, Кабельный фасад - Полосатый блок из теневого железа
+appliedenergistics2:facade:0, Кабельный фасад - Блок стали
+appliedenergistics2:facade:0, Кабельный фасад - Стальной обработанный блок
+appliedenergistics2:facade:0, Кабельный фасад - Стальной большой кирпич
+appliedenergistics2:facade:0, Кабельный фасад - Стальный кирпич
+appliedenergistics2:facade:0, Кабельный фасад - Стальные кристаллы
+appliedenergistics2:facade:0, Кабельный фасад - Стальной полосатый блок
 appliedenergistics2:facade:0, Кабельный фасад - Мифриловая руда
 appliedenergistics2:facade:0, Кабельный фасад - Блок мифрила
 appliedenergistics2:facade:0, Кабельный фасад - Мифриловый обработанный блок
@@ -2939,6 +2940,12 @@ appliedenergistics2:facade:0, Кабельный фасад - Инфусколи
 appliedenergistics2:facade:0, Кабельный фасад - Инфусколиевый кирпич
 appliedenergistics2:facade:0, Кабельный фасад - Инфусколиевые кристаллы
 appliedenergistics2:facade:0, Кабельный фасад - Инфусколиумный полосатый блок
+appliedenergistics2:facade:0, Кабельный фасад - Блок теневой стали
+appliedenergistics2:facade:0, Кабельный фасад - Обработанный блок из теневой стали
+appliedenergistics2:facade:0, Кабельный фасад - Большой кирпич из теневой стали
+appliedenergistics2:facade:0, Кабельный фасад - Кирпич из теневой стали
+appliedenergistics2:facade:0, Кабельный фасад - Кристаллы из теневой стали
+appliedenergistics2:facade:0, Кабельный фасад - Полосатый блок из теневой стали
 appliedenergistics2:facade:0, Кабельный фасад - Мидасиевая руда
 appliedenergistics2:facade:0, Кабельный фасад - Блок мидасия
 appliedenergistics2:facade:0, Кабельный фасад - Мидасиумный обработанный блок
@@ -2946,12 +2953,6 @@ appliedenergistics2:facade:0, Кабельный фасад - Мидасиевы
 appliedenergistics2:facade:0, Кабельный фасад - Мидасиевый кирпич
 appliedenergistics2:facade:0, Кабельный фасад - Мидасиевые кристаллы
 appliedenergistics2:facade:0, Кабельный фасад - Мидасиумный полосатый блок
-appliedenergistics2:facade:0, Кабельный фасад - Блок теневой стали
-appliedenergistics2:facade:0, Кабельный фасад - Обработанный блок из теневой стали
-appliedenergistics2:facade:0, Кабельный фасад - Большой кирпич из теневой стали
-appliedenergistics2:facade:0, Кабельный фасад - Кирпич из теневой стали
-appliedenergistics2:facade:0, Кабельный фасад - Кристаллы из теневой стали
-appliedenergistics2:facade:0, Кабельный фасад - Полосатый блок из теневой стали
 appliedenergistics2:facade:0, Кабельный фасад - Блок крика
 appliedenergistics2:facade:0, Кабельный фасад - Криковый обработанный блок
 appliedenergistics2:facade:0, Кабельный фасад - Криковый большой кирпич
@@ -3130,6 +3131,26 @@ appliedenergistics2:facade:0, Кабельный фасад - Абиссальн
 appliedenergistics2:facade:0, Кабельный фасад - Кораллово-булыжниковая плита
 appliedenergistics2:facade:0, Кабельный фасад - Кальцинированный камень
 appliedenergistics2:facade:0, Кабельный фасад - Hellshelf
+appliedenergistics2:facade:0, Кабельный фасад - Техниум руда
+appliedenergistics2:facade:0, Кабельный фасад - Техно блок
+appliedenergistics2:facade:0, Кабельный фасад - Техниум руда
+appliedenergistics2:facade:0, Кабельный фасад - Невидимая стена нужен баф полета
+appliedenergistics2:facade:0, Кабельный фасад - Redtech Ignort Block
+appliedenergistics2:facade:0, Кабельный фасад - Redtechnoblockcrush
+appliedenergistics2:facade:0, Кабельный фасад - Redtechnoblockcrush
+appliedenergistics2:facade:0, Кабельный фасад - Redtechnoblockcrush
+appliedenergistics2:facade:0, Кабельный фасад - Dungedon Wall
+appliedenergistics2:facade:0, Кабельный фасад - Dungedonbot1
+appliedenergistics2:facade:0, Кабельный фасад - Dungedonbot2
+appliedenergistics2:facade:0, Кабельный фасад - Dungedonbot2
+appliedenergistics2:facade:0, Кабельный фасад - Dungedonbot2
+appliedenergistics2:facade:0, Кабельный фасад - Dungedonbot2
+appliedenergistics2:facade:0, Кабельный фасад - Dungedonbot2
+appliedenergistics2:facade:0, Кабельный фасад - Red Techno Block
+appliedenergistics2:facade:0, Кабельный фасад - Techbrick
+appliedenergistics2:facade:0, Кабельный фасад - Техно кирпичи
+appliedenergistics2:facade:0, Кабельный фасад - Плохое дерво
+appliedenergistics2:facade:0, Кабельный фасад - Badoak
 appliedenergistics2:crystal_seed:0, Семя истинного кварца
 appliedenergistics2:crystal_seed:600, Семя кварца Нижнего мира
 appliedenergistics2:crystal_seed:1200, Изменчивое семя
@@ -3909,341 +3930,6 @@ thaumcraft:seal:15, Печать контроля: Запас
 thaumcraft:seal:16, Control Seal: Advanced Block Breaker
 thaumcraft:seal:17, Печать контроля: Безопасность
 thaumcraft:seal:18, Улучшенная печать контроля: Безопасность
-botania:lexicon, item.lexicon.name
-botania:petal:0, Мистический белый лепесток
-botania:petal:1, Мистический оранжевый лепесток
-botania:petal:2, Мистический пурпурный лепесток
-botania:petal:3, Мистический голубой лепесток
-botania:petal:4, Мистический жёлтый лепесток
-botania:petal:5, Мистический лаймовый лепесток
-botania:petal:6, Мистический розовый лепесток
-botania:petal:7, Мистический серый лепесток
-botania:petal:8, Мистический светло-серый лепесток
-botania:petal:9, Мистический бирюзовый лепесток
-botania:petal:10, Мистический фиолетовый лепесток
-botania:petal:11, Мистический синий лепесток
-botania:petal:12, Мистический коричневый лепесток
-botania:petal:13, Мистический зелёный лепесток
-botania:petal:14, Мистический красный лепесток
-botania:petal:15, Мистический чёрный лепесток
-botania:dye:0, Белый цветочный порошок
-botania:dye:1, Оранжевый цветочный порошок
-botania:dye:2, Пурпурный цветочный порошок
-botania:dye:3, Голубый цветочный порошок
-botania:dye:4, Жёлтый цветочный порошок
-botania:dye:5, Лаймовый цветочный порошок
-botania:dye:6, Розовый цветочный порошок
-botania:dye:7, Серый цветочный порошок
-botania:dye:8, Светло-серый цветочный порошок
-botania:dye:9, Бирюзовый цветочный порошок
-botania:dye:10, Фиолетовый цветочный порошок
-botania:dye:11, Синий цветочный порошок
-botania:dye:12, Коричневый цветочный порошок
-botania:dye:13, Зелёный цветочный порошок
-botania:dye:14, Красный цветочный порошок
-botania:dye:15, Чёрный цветочный порошок
-botania:pestleandmortar, item.pestleAndMortar.name
-botania:twigwand:0, Посох леса
-botania:twigwand:0, Посох леса
-botania:twigwand:0, Посох леса
-botania:twigwand:0, Посох леса
-botania:twigwand:0, Посох леса
-botania:twigwand:0, Посох леса
-botania:twigwand:0, Посох леса
-botania:twigwand:0, Посох леса
-botania:twigwand:0, Посох леса
-botania:twigwand:0, Посох леса
-botania:twigwand:0, Посох леса
-botania:twigwand:0, Посох леса
-botania:twigwand:0, Посох леса
-botania:twigwand:0, Посох леса
-botania:twigwand:0, Посох леса
-botania:twigwand:0, Посох леса
-botania:manaresource:0, Слиток манастали
-botania:manaresource:1, Жемчуг маны
-botania:manaresource:2, Маналмаз
-botania:manaresource:3, Ветка жизнедерева
-botania:manaresource:4, Слиток террастали
-botania:manaresource:5, Дух Гайи
-botania:manaresource:6, Корень Редстоуна
-botania:manaresource:7, Слиток элементия
-botania:manaresource:8, Пыльца феи
-botania:manaresource:9, Камень дракона
-botania:manaresource:11, Заполнитель сборщика
-botania:manaresource:12, Красная нить
-botania:manaresource:13, Ветка из древесины мечтаний
-botania:manaresource:14, Слиток духа Гайи
-botania:manaresource:15, Пузырёк с воздухом Эндера
-botania:manaresource:16, Мананить
-botania:manaresource:17, Manasteel Nugget
-botania:manaresource:18, Terrasteel Nugget
-botania:manaresource:19, Elementium Nugget
-botania:manaresource:22, Манаткань
-botania:manaresource:23, Мана порошок
-botania:lens:0, Линза маны
-botania:lens:1, Линза маны: Скорость
-botania:lens:2, Линза маны: Потенциал
-botania:lens:3, Линза маны: Сопротивление
-botania:lens:4, Линза маны: Эффективность
-botania:lens:5, Линза маны: Отскок
-botania:lens:6, Линза маны: Гравитация
-botania:lens:7, Линза маны: Бурение
-botania:lens:8, Линза маны: Повреждение
-botania:lens:9, Линза маны: Призрачность
-botania:lens:10, Линза маны: Магнетизм
-botania:lens:11, Линза маны: Энтропия
-botania:lens:12, Линза маны: Воздействие
-botania:lens:13, Линза маны: Масса
-botania:lens:14, Линза маны: Отражатель краски
-botania:lens:15, Линза маны: Поджог
-botania:lens:16, Линза маны: Сила
-botania:lens:17, Линза маны: Вспышка
-botania:lens:18, Линза маны: Искажение
-botania:lens:19, Линза маны: Перенаправление
-botania:lens:20, Линза маны: Торжество
-botania:lens:21, Линза маны: Всплеск
-botania:lens:22, Линза маны: Messenger
-botania:lens:23, Линза маны: Tripwire
-botania:rune:0, Руна воды
-botania:rune:1, Руна огня
-botania:rune:2, Руна земли
-botania:rune:3, Руна воздуха
-botania:rune:4, Руна весны
-botania:rune:5, Руна лета
-botania:rune:6, Руна осени
-botania:rune:7, Руна зимы
-botania:rune:8, Руна маны
-botania:rune:9, Руна похоти
-botania:rune:10, Руна обжорства
-botania:rune:11, Руна жадности
-botania:rune:12, Руна лени
-botania:rune:13, Руна гнева
-botania:rune:14, Руна зависти
-botania:rune:15, Руна гордости
-botania:manatablet, item.manaTablet.name
-botania:managun, item.manaGun.name
-botania:manacookie, item.manaCookie.name
-botania:fertilizer, item.fertilizer.name
-botania:grassseeds:0, Луговое семя
-botania:grassseeds:1, Таёжное семя
-botania:grassseeds:2, Грибное семя
-botania:grassseeds:3, Сухое семя
-botania:grassseeds:4, Золотое семя
-botania:grassseeds:5, Яркое семя
-botania:grassseeds:6, Выжженное семя
-botania:grassseeds:7, Заряженное семя
-botania:grassseeds:8, Мутировавшее семя
-botania:dirtrod, item.dirtRod.name
-botania:terraformrod, item.terraformRod.name
-botania:grasshorn:0, Рог дикой природы
-botania:grasshorn:1, Рог укрытия
-botania:grasshorn:2, Рог уничтожения листвы
-botania:manamirror, item.manaMirror.name
-botania:manasteelhelm, item.manasteelHelm.name
-botania:manasteelhelmreveal, item.manasteelHelmReveal.name
-botania:manasteelchest, item.manasteelChest.name
-botania:manasteellegs, item.manasteelLegs.name
-botania:manasteelboots, item.manasteelBoots.name
-botania:manasteelpick, item.manasteelPick.name
-botania:manasteelshovel, item.manasteelShovel.name
-botania:manasteelaxe, item.manasteelAxe.name
-botania:manasteelsword, item.manasteelSword.name
-botania:manasteelshears, item.manasteelShears.name
-botania:terrasteelhelm, item.terrasteelHelm.name
-botania:terrasteelhelmreveal, item.terrasteelHelmReveal.name
-botania:terrasteelchest, item.terrasteelChest.name
-botania:terrasteellegs, item.terrasteelLegs.name
-botania:terrasteelboots, item.terrasteelBoots.name
-botania:terrasword, item.terraSword.name
-botania:tinyplanet, item.tinyPlanet.name
-botania:manaring, item.manaRing.name
-botania:auraring, item.auraRing.name
-botania:manaringgreater, item.manaRingGreater.name
-botania:auraringgreater, item.auraRingGreater.name
-botania:travelbelt, item.travelBelt.name
-botania:knockbackbelt, item.knockbackBelt.name
-botania:icependant, item.icePendant.name
-botania:lavapendant, item.lavaPendant.name
-botania:magnetring, item.magnetRing.name
-botania:waterring, item.waterRing.name
-botania:miningring, item.miningRing.name
-botania:terrapick, item.terraPick.name
-botania:divacharm, item.divaCharm.name
-botania:flighttiara:0, Крылатая тиара
-botania:flighttiara:1, Крылатая тиара
-botania:flighttiara:2, Крылатая тиара
-botania:flighttiara:3, Крылатая тиара
-botania:flighttiara:4, Крылатая тиара
-botania:flighttiara:5, Крылатая тиара
-botania:flighttiara:6, Крылатая тиара
-botania:flighttiara:7, Крылатая тиара
-botania:flighttiara:8, Крылатая тиара
-botania:enderdagger, item.enderDagger.name
-botania:quartz:0, Дымной кварц
-botania:quartz:1, Манакварц
-botania:quartz:2, Пламенный кварц
-botania:quartz:3, Лавандовый кварц
-botania:quartz:4, Красный кварц
-botania:quartz:5, Эльфийский кварц
-botania:quartz:6, Солнечный кварц
-botania:waterrod, item.waterRod.name
-botania:elementiumhelm, item.elementiumHelm.name
-botania:elementiumhelmreveal, item.elementiumHelmReveal.name
-botania:elementiumchest, item.elementiumChest.name
-botania:elementiumlegs, item.elementiumLegs.name
-botania:elementiumboots, item.elementiumBoots.name
-botania:elementiumpick, item.elementiumPick.name
-botania:elementiumshovel, item.elementiumShovel.name
-botania:elementiumaxe, item.elementiumAxe.name
-botania:elementiumsword, item.elementiumSword.name
-botania:elementiumshears, item.elementiumShears.name
-botania:openbucket, item.openBucket.name
-botania:spawnermover, item.spawnerMover.name
-botania:pixiering, item.pixieRing.name
-botania:supertravelbelt, item.superTravelBelt.name
-botania:rainbowrod, item.rainbowRod.name
-botania:tornadorod, item.tornadoRod.name
-botania:firerod, item.fireRod.name
-botania:vineball, item.vineBall.name
-botania:slingshot, item.slingshot.name
-botania:manabottle, item.manaBottle.name
-botania:laputashard:0, Осколок острова Лапута
-botania:laputashard:4, Осколок острова Лапута
-botania:laputashard:9, Осколок острова Лапута
-botania:laputashard:14, Осколок острова Лапута
-botania:laputashard:19, Осколок острова Лапута
-botania:virus:0, Некродермальный вирус
-botania:virus:1, Наллодермальный вирус
-botania:reachring, item.reachRing.name
-botania:skydirtrod, item.skyDirtRod.name
-botania:itemfinder, item.itemFinder.name
-botania:superlavapendant, item.superLavaPendant.name
-botania:enderhand, item.enderHand.name
-botania:glasspick, item.glassPick.name
-botania:spark, item.spark.name
-botania:sparkupgrade:0, Дополнитель искр: Рассеивающий
-botania:sparkupgrade:1, Дополнитель искр: Доминантный
-botania:sparkupgrade:2, Дополнитель искр: Рецессивный
-botania:sparkupgrade:3, Дополнитель искр: Изолирующий
-botania:diviningrod, item.diviningRod.name
-botania:gravityrod, item.gravityRod.name
-botania:manainkwell, item.manaInkwell.name
-botania:vial:0, Пузырёк из манастали
-botania:vial:1, Колба из эльфийского стекла
-botania:brewvial, item.brewVial.name
-botania:brewflask, item.brewFlask.name
-botania:bloodpendant, item.bloodPendant.name
-botania:missilerod, item.missileRod.name
-botania:holycloak, item.holyCloak.name
-botania:unholycloak, item.unholyCloak.name
-botania:balancecloak, item.balanceCloak.name
-botania:craftinghalo, item.craftingHalo.name
-botania:blacklotus:0, Чёрный лотос
-botania:blacklotus:1, Чернейший лотос
-botania:monocle, item.monocle.name
-botania:clip, item.clip.name
-botania:cobblerod, item.cobbleRod.name
-botania:smeltrod, item.smeltRod.name
-botania:worldseed, item.worldSeed.name
-botania:spellcloth, item.spellCloth.name
-botania:thornchakram:0, Шипастая чакра
-botania:thornchakram:1, Вспыхивающая чакра
-botania:overgrowthseed, item.overgrowthSeed.name
-botania:craftpattern:0, Шаблон крафта #1: 1x1
-botania:craftpattern:1, Шаблон крафта #2: 2x2
-botania:craftpattern:2, Шаблон крафта #3: 1x2
-botania:craftpattern:3, Шаблон крафта #4: 2x1
-botania:craftpattern:4, Шаблон крафта #5: 1x3
-botania:craftpattern:5, Шаблон крафта #6: 3x1
-botania:craftpattern:6, Шаблон крафта #7: 2x3
-botania:craftpattern:7, Шаблон крафта #8: 3x2
-botania:craftpattern:8, Шаблон крафта #9: Пончик
-botania:ancientwill:0, Воля Арима
-botania:ancientwill:1, Воля Дхарока
-botania:ancientwill:2, Воля Гузана
-botania:ancientwill:3, Воля Тора
-botania:ancientwill:4, Воля Верака
-botania:ancientwill:5, Воля Карила
-botania:corporeaspark:0, Искра хранилища
-botania:corporeaspark:1, Главная искра хранилища
-botania:livingwoodbow, item.livingwoodBow.name
-botania:crystalbow, item.crystalBow.name
-botania:cosmetic:0, Чёрный галстук-бабочка
-botania:cosmetic:1, Чёрный галстук
-botania:cosmetic:2, Красные очки
-botania:cosmetic:3, Пушистый шарф
-botania:cosmetic:4, Инженерные очки
-botania:cosmetic:5, Повязка на глаз
-botania:cosmetic:6, Злая повязка
-botania:cosmetic:7, Красные ленточки
-botania:cosmetic:8, Розовый бутон
-botania:cosmetic:9, Бант в горошек
-botania:cosmetic:10, Голубая бабочка
-botania:cosmetic:11, Кошачьи ушки
-botania:cosmetic:12, Значок ведьмы
-botania:cosmetic:13, Хвостик Дьявола
-botania:cosmetic:14, Глаз Камуи
-botania:cosmetic:15, Выпученные глаза
-botania:cosmetic:16, Чётырёхлистный клевер
-botania:cosmetic:17, Часы
-botania:cosmetic:18, Рог единорога
-botania:cosmetic:19, Рога Дьявола
-botania:cosmetic:20, Бантики
-botania:cosmetic:21, Эмблема ботаника
-botania:cosmetic:22, Древняя маска
-botania:cosmetic:23, Жуткая маска
-botania:cosmetic:24, Антенна пришельца
-botania:cosmetic:25, 3D-очки
-botania:cosmetic:26, Оранжевые очки
-botania:cosmetic:27, Очки Граучо
-botania:cosmetic:28, Густые брови
-botania:cosmetic:29, Щит Лузитанца
-botania:cosmetic:30, Маска мини-картофеля
-botania:cosmetic:31, Значок квеста
-botania:cosmetic:32, Thinking Hand
-botania:swapring, item.swapRing.name
-botania:flowerbag, item.flowerBag.name
-botania:phantomink, item.phantomInk.name
-botania:poolminecart, item.poolMinecart.name
-botania:pinkinator, item.pinkinator.name
-botania:infinitefruit, item.infiniteFruit.name
-botania:kingkey, item.kingKey.name
-botania:flugeleye, item.flugelEye.name
-botania:thorring, item.thorRing.name
-botania:odinring, item.odinRing.name
-botania:lokiring, item.lokiRing.name
-botania:dice, item.dice.name
-botania:keepivy, item.keepIvy.name
-botania:blackholetalisman:0, Талисман чёрной дыры
-botania:recordgaia1, item.recordGaia1.name
-botania:recordgaia2, item.recordGaia2.name
-botania:temperancestone:0, Камень воздержания
-botania:incensestick, item.incenseStick.name
-botania:terraaxe, item.terraAxe.name
-botania:waterbowl, item.waterBowl.name
-botania:obediencestick, item.obedienceStick.name
-botania:cacophonium, item.cacophonium.name
-botania:slimebottle:0, Слизь в бутылке
-botania:starsword, item.starSword.name
-botania:exchangerod, item.exchangeRod.name
-botania:magnetringgreater, item.magnetRingGreater.name
-botania:thundersword, item.thunderSword.name
-botania:manaweavehelm, item.manaweaveHelm.name
-botania:manaweavechest, item.manaweaveChest.name
-botania:manaweavelegs, item.manaweaveLegs.name
-botania:manaweaveboots, item.manaweaveBoots.name
-botania:autocraftinghalo, item.autocraftingHalo.name
-botania:gaiahead, item.gaiaHead.name
-botania:sextant, item.sextant.name
-botania:speedupbelt, item.speedUpBelt.name
-botania:baublebox, item.baubleBox.name
-botania:dodgering, item.dodgeRing.name
-botania:invisibilitycloak, item.invisibilityCloak.name
-botania:cloudpendant, item.cloudPendant.name
-botania:supercloudpendant, item.superCloudPendant.name
-botania:thirdeye, item.thirdEye.name
-botania:astrolabe, item.astrolabe.name
-botania:goddesscharm, item.goddessCharm.name
 botania:livingwood0stairs, tile.livingwood0Stairs.name
 botania:livingwood0slab:0, Плита из жизнедерева
 botania:livingwood0wall, tile.livingwood0Wall.name
@@ -4732,6 +4418,341 @@ botania:altgrass:3, Выжженная трава
 botania:altgrass:4, Заряженный трава
 botania:altgrass:5, Мутировавшая Трава
 botania:animatedtorch, tile.animatedTorch.name
+botania:lexicon, item.lexicon.name
+botania:petal:0, Мистический белый лепесток
+botania:petal:1, Мистический оранжевый лепесток
+botania:petal:2, Мистический пурпурный лепесток
+botania:petal:3, Мистический голубой лепесток
+botania:petal:4, Мистический жёлтый лепесток
+botania:petal:5, Мистический лаймовый лепесток
+botania:petal:6, Мистический розовый лепесток
+botania:petal:7, Мистический серый лепесток
+botania:petal:8, Мистический светло-серый лепесток
+botania:petal:9, Мистический бирюзовый лепесток
+botania:petal:10, Мистический фиолетовый лепесток
+botania:petal:11, Мистический синий лепесток
+botania:petal:12, Мистический коричневый лепесток
+botania:petal:13, Мистический зелёный лепесток
+botania:petal:14, Мистический красный лепесток
+botania:petal:15, Мистический чёрный лепесток
+botania:dye:0, Белый цветочный порошок
+botania:dye:1, Оранжевый цветочный порошок
+botania:dye:2, Пурпурный цветочный порошок
+botania:dye:3, Голубый цветочный порошок
+botania:dye:4, Жёлтый цветочный порошок
+botania:dye:5, Лаймовый цветочный порошок
+botania:dye:6, Розовый цветочный порошок
+botania:dye:7, Серый цветочный порошок
+botania:dye:8, Светло-серый цветочный порошок
+botania:dye:9, Бирюзовый цветочный порошок
+botania:dye:10, Фиолетовый цветочный порошок
+botania:dye:11, Синий цветочный порошок
+botania:dye:12, Коричневый цветочный порошок
+botania:dye:13, Зелёный цветочный порошок
+botania:dye:14, Красный цветочный порошок
+botania:dye:15, Чёрный цветочный порошок
+botania:pestleandmortar, item.pestleAndMortar.name
+botania:twigwand:0, Посох леса
+botania:twigwand:0, Посох леса
+botania:twigwand:0, Посох леса
+botania:twigwand:0, Посох леса
+botania:twigwand:0, Посох леса
+botania:twigwand:0, Посох леса
+botania:twigwand:0, Посох леса
+botania:twigwand:0, Посох леса
+botania:twigwand:0, Посох леса
+botania:twigwand:0, Посох леса
+botania:twigwand:0, Посох леса
+botania:twigwand:0, Посох леса
+botania:twigwand:0, Посох леса
+botania:twigwand:0, Посох леса
+botania:twigwand:0, Посох леса
+botania:twigwand:0, Посох леса
+botania:manaresource:0, Слиток манастали
+botania:manaresource:1, Жемчуг маны
+botania:manaresource:2, Маналмаз
+botania:manaresource:3, Ветка жизнедерева
+botania:manaresource:4, Слиток террастали
+botania:manaresource:5, Дух Гайи
+botania:manaresource:6, Корень Редстоуна
+botania:manaresource:7, Слиток элементия
+botania:manaresource:8, Пыльца феи
+botania:manaresource:9, Камень дракона
+botania:manaresource:11, Заполнитель сборщика
+botania:manaresource:12, Красная нить
+botania:manaresource:13, Ветка из древесины мечтаний
+botania:manaresource:14, Слиток духа Гайи
+botania:manaresource:15, Пузырёк с воздухом Эндера
+botania:manaresource:16, Мананить
+botania:manaresource:17, Manasteel Nugget
+botania:manaresource:18, Terrasteel Nugget
+botania:manaresource:19, Elementium Nugget
+botania:manaresource:22, Манаткань
+botania:manaresource:23, Мана порошок
+botania:lens:0, Линза маны
+botania:lens:1, Линза маны: Скорость
+botania:lens:2, Линза маны: Потенциал
+botania:lens:3, Линза маны: Сопротивление
+botania:lens:4, Линза маны: Эффективность
+botania:lens:5, Линза маны: Отскок
+botania:lens:6, Линза маны: Гравитация
+botania:lens:7, Линза маны: Бурение
+botania:lens:8, Линза маны: Повреждение
+botania:lens:9, Линза маны: Призрачность
+botania:lens:10, Линза маны: Магнетизм
+botania:lens:11, Линза маны: Энтропия
+botania:lens:12, Линза маны: Воздействие
+botania:lens:13, Линза маны: Масса
+botania:lens:14, Линза маны: Отражатель краски
+botania:lens:15, Линза маны: Поджог
+botania:lens:16, Линза маны: Сила
+botania:lens:17, Линза маны: Вспышка
+botania:lens:18, Линза маны: Искажение
+botania:lens:19, Линза маны: Перенаправление
+botania:lens:20, Линза маны: Торжество
+botania:lens:21, Линза маны: Всплеск
+botania:lens:22, Линза маны: Messenger
+botania:lens:23, Линза маны: Tripwire
+botania:rune:0, Руна воды
+botania:rune:1, Руна огня
+botania:rune:2, Руна земли
+botania:rune:3, Руна воздуха
+botania:rune:4, Руна весны
+botania:rune:5, Руна лета
+botania:rune:6, Руна осени
+botania:rune:7, Руна зимы
+botania:rune:8, Руна маны
+botania:rune:9, Руна похоти
+botania:rune:10, Руна обжорства
+botania:rune:11, Руна жадности
+botania:rune:12, Руна лени
+botania:rune:13, Руна гнева
+botania:rune:14, Руна зависти
+botania:rune:15, Руна гордости
+botania:manatablet, item.manaTablet.name
+botania:managun, item.manaGun.name
+botania:manacookie, item.manaCookie.name
+botania:fertilizer, item.fertilizer.name
+botania:grassseeds:0, Луговое семя
+botania:grassseeds:1, Таёжное семя
+botania:grassseeds:2, Грибное семя
+botania:grassseeds:3, Сухое семя
+botania:grassseeds:4, Золотое семя
+botania:grassseeds:5, Яркое семя
+botania:grassseeds:6, Выжженное семя
+botania:grassseeds:7, Заряженное семя
+botania:grassseeds:8, Мутировавшее семя
+botania:dirtrod, item.dirtRod.name
+botania:terraformrod, item.terraformRod.name
+botania:grasshorn:0, Рог дикой природы
+botania:grasshorn:1, Рог укрытия
+botania:grasshorn:2, Рог уничтожения листвы
+botania:manamirror, item.manaMirror.name
+botania:manasteelhelm, item.manasteelHelm.name
+botania:manasteelhelmreveal, item.manasteelHelmReveal.name
+botania:manasteelchest, item.manasteelChest.name
+botania:manasteellegs, item.manasteelLegs.name
+botania:manasteelboots, item.manasteelBoots.name
+botania:manasteelpick, item.manasteelPick.name
+botania:manasteelshovel, item.manasteelShovel.name
+botania:manasteelaxe, item.manasteelAxe.name
+botania:manasteelsword, item.manasteelSword.name
+botania:manasteelshears, item.manasteelShears.name
+botania:terrasteelhelm, item.terrasteelHelm.name
+botania:terrasteelhelmreveal, item.terrasteelHelmReveal.name
+botania:terrasteelchest, item.terrasteelChest.name
+botania:terrasteellegs, item.terrasteelLegs.name
+botania:terrasteelboots, item.terrasteelBoots.name
+botania:terrasword, item.terraSword.name
+botania:tinyplanet, item.tinyPlanet.name
+botania:manaring, item.manaRing.name
+botania:auraring, item.auraRing.name
+botania:manaringgreater, item.manaRingGreater.name
+botania:auraringgreater, item.auraRingGreater.name
+botania:travelbelt, item.travelBelt.name
+botania:knockbackbelt, item.knockbackBelt.name
+botania:icependant, item.icePendant.name
+botania:lavapendant, item.lavaPendant.name
+botania:magnetring, item.magnetRing.name
+botania:waterring, item.waterRing.name
+botania:miningring, item.miningRing.name
+botania:terrapick, item.terraPick.name
+botania:divacharm, item.divaCharm.name
+botania:flighttiara:0, Крылатая тиара
+botania:flighttiara:1, Крылатая тиара
+botania:flighttiara:2, Крылатая тиара
+botania:flighttiara:3, Крылатая тиара
+botania:flighttiara:4, Крылатая тиара
+botania:flighttiara:5, Крылатая тиара
+botania:flighttiara:6, Крылатая тиара
+botania:flighttiara:7, Крылатая тиара
+botania:flighttiara:8, Крылатая тиара
+botania:enderdagger, item.enderDagger.name
+botania:quartz:0, Дымной кварц
+botania:quartz:1, Манакварц
+botania:quartz:2, Пламенный кварц
+botania:quartz:3, Лавандовый кварц
+botania:quartz:4, Красный кварц
+botania:quartz:5, Эльфийский кварц
+botania:quartz:6, Солнечный кварц
+botania:waterrod, item.waterRod.name
+botania:elementiumhelm, item.elementiumHelm.name
+botania:elementiumhelmreveal, item.elementiumHelmReveal.name
+botania:elementiumchest, item.elementiumChest.name
+botania:elementiumlegs, item.elementiumLegs.name
+botania:elementiumboots, item.elementiumBoots.name
+botania:elementiumpick, item.elementiumPick.name
+botania:elementiumshovel, item.elementiumShovel.name
+botania:elementiumaxe, item.elementiumAxe.name
+botania:elementiumsword, item.elementiumSword.name
+botania:elementiumshears, item.elementiumShears.name
+botania:openbucket, item.openBucket.name
+botania:spawnermover, item.spawnerMover.name
+botania:pixiering, item.pixieRing.name
+botania:supertravelbelt, item.superTravelBelt.name
+botania:rainbowrod, item.rainbowRod.name
+botania:tornadorod, item.tornadoRod.name
+botania:firerod, item.fireRod.name
+botania:vineball, item.vineBall.name
+botania:slingshot, item.slingshot.name
+botania:manabottle, item.manaBottle.name
+botania:laputashard:0, Осколок острова Лапута
+botania:laputashard:4, Осколок острова Лапута
+botania:laputashard:9, Осколок острова Лапута
+botania:laputashard:14, Осколок острова Лапута
+botania:laputashard:19, Осколок острова Лапута
+botania:virus:0, Некродермальный вирус
+botania:virus:1, Наллодермальный вирус
+botania:reachring, item.reachRing.name
+botania:skydirtrod, item.skyDirtRod.name
+botania:itemfinder, item.itemFinder.name
+botania:superlavapendant, item.superLavaPendant.name
+botania:enderhand, item.enderHand.name
+botania:glasspick, item.glassPick.name
+botania:spark, item.spark.name
+botania:sparkupgrade:0, Дополнитель искр: Рассеивающий
+botania:sparkupgrade:1, Дополнитель искр: Доминантный
+botania:sparkupgrade:2, Дополнитель искр: Рецессивный
+botania:sparkupgrade:3, Дополнитель искр: Изолирующий
+botania:diviningrod, item.diviningRod.name
+botania:gravityrod, item.gravityRod.name
+botania:manainkwell, item.manaInkwell.name
+botania:vial:0, Пузырёк из манастали
+botania:vial:1, Колба из эльфийского стекла
+botania:brewvial, item.brewVial.name
+botania:brewflask, item.brewFlask.name
+botania:bloodpendant, item.bloodPendant.name
+botania:missilerod, item.missileRod.name
+botania:holycloak, item.holyCloak.name
+botania:unholycloak, item.unholyCloak.name
+botania:balancecloak, item.balanceCloak.name
+botania:craftinghalo, item.craftingHalo.name
+botania:blacklotus:0, Чёрный лотос
+botania:blacklotus:1, Чернейший лотос
+botania:monocle, item.monocle.name
+botania:clip, item.clip.name
+botania:cobblerod, item.cobbleRod.name
+botania:smeltrod, item.smeltRod.name
+botania:worldseed, item.worldSeed.name
+botania:spellcloth, item.spellCloth.name
+botania:thornchakram:0, Шипастая чакра
+botania:thornchakram:1, Вспыхивающая чакра
+botania:overgrowthseed, item.overgrowthSeed.name
+botania:craftpattern:0, Шаблон крафта #1: 1x1
+botania:craftpattern:1, Шаблон крафта #2: 2x2
+botania:craftpattern:2, Шаблон крафта #3: 1x2
+botania:craftpattern:3, Шаблон крафта #4: 2x1
+botania:craftpattern:4, Шаблон крафта #5: 1x3
+botania:craftpattern:5, Шаблон крафта #6: 3x1
+botania:craftpattern:6, Шаблон крафта #7: 2x3
+botania:craftpattern:7, Шаблон крафта #8: 3x2
+botania:craftpattern:8, Шаблон крафта #9: Пончик
+botania:ancientwill:0, Воля Арима
+botania:ancientwill:1, Воля Дхарока
+botania:ancientwill:2, Воля Гузана
+botania:ancientwill:3, Воля Тора
+botania:ancientwill:4, Воля Верака
+botania:ancientwill:5, Воля Карила
+botania:corporeaspark:0, Искра хранилища
+botania:corporeaspark:1, Главная искра хранилища
+botania:livingwoodbow, item.livingwoodBow.name
+botania:crystalbow, item.crystalBow.name
+botania:cosmetic:0, Чёрный галстук-бабочка
+botania:cosmetic:1, Чёрный галстук
+botania:cosmetic:2, Красные очки
+botania:cosmetic:3, Пушистый шарф
+botania:cosmetic:4, Инженерные очки
+botania:cosmetic:5, Повязка на глаз
+botania:cosmetic:6, Злая повязка
+botania:cosmetic:7, Красные ленточки
+botania:cosmetic:8, Розовый бутон
+botania:cosmetic:9, Бант в горошек
+botania:cosmetic:10, Голубая бабочка
+botania:cosmetic:11, Кошачьи ушки
+botania:cosmetic:12, Значок ведьмы
+botania:cosmetic:13, Хвостик Дьявола
+botania:cosmetic:14, Глаз Камуи
+botania:cosmetic:15, Выпученные глаза
+botania:cosmetic:16, Чётырёхлистный клевер
+botania:cosmetic:17, Часы
+botania:cosmetic:18, Рог единорога
+botania:cosmetic:19, Рога Дьявола
+botania:cosmetic:20, Бантики
+botania:cosmetic:21, Эмблема ботаника
+botania:cosmetic:22, Древняя маска
+botania:cosmetic:23, Жуткая маска
+botania:cosmetic:24, Антенна пришельца
+botania:cosmetic:25, 3D-очки
+botania:cosmetic:26, Оранжевые очки
+botania:cosmetic:27, Очки Граучо
+botania:cosmetic:28, Густые брови
+botania:cosmetic:29, Щит Лузитанца
+botania:cosmetic:30, Маска мини-картофеля
+botania:cosmetic:31, Значок квеста
+botania:cosmetic:32, Thinking Hand
+botania:swapring, item.swapRing.name
+botania:flowerbag, item.flowerBag.name
+botania:phantomink, item.phantomInk.name
+botania:poolminecart, item.poolMinecart.name
+botania:pinkinator, item.pinkinator.name
+botania:infinitefruit, item.infiniteFruit.name
+botania:kingkey, item.kingKey.name
+botania:flugeleye, item.flugelEye.name
+botania:thorring, item.thorRing.name
+botania:odinring, item.odinRing.name
+botania:lokiring, item.lokiRing.name
+botania:dice, item.dice.name
+botania:keepivy, item.keepIvy.name
+botania:blackholetalisman:0, Талисман чёрной дыры
+botania:recordgaia1, item.recordGaia1.name
+botania:recordgaia2, item.recordGaia2.name
+botania:temperancestone:0, Камень воздержания
+botania:incensestick, item.incenseStick.name
+botania:terraaxe, item.terraAxe.name
+botania:waterbowl, item.waterBowl.name
+botania:obediencestick, item.obedienceStick.name
+botania:cacophonium, item.cacophonium.name
+botania:slimebottle:0, Слизь в бутылке
+botania:starsword, item.starSword.name
+botania:exchangerod, item.exchangeRod.name
+botania:magnetringgreater, item.magnetRingGreater.name
+botania:thundersword, item.thunderSword.name
+botania:manaweavehelm, item.manaweaveHelm.name
+botania:manaweavechest, item.manaweaveChest.name
+botania:manaweavelegs, item.manaweaveLegs.name
+botania:manaweaveboots, item.manaweaveBoots.name
+botania:autocraftinghalo, item.autocraftingHalo.name
+botania:gaiahead, item.gaiaHead.name
+botania:sextant, item.sextant.name
+botania:speedupbelt, item.speedUpBelt.name
+botania:baublebox, item.baubleBox.name
+botania:dodgering, item.dodgeRing.name
+botania:invisibilitycloak, item.invisibilityCloak.name
+botania:cloudpendant, item.cloudPendant.name
+botania:supercloudpendant, item.superCloudPendant.name
+botania:thirdeye, item.thirdEye.name
+botania:astrolabe, item.astrolabe.name
+botania:goddesscharm, item.goddessCharm.name
 cavern:cavern_portal, Cavern Portal
 cavern:huge_cavern_portal, Huge Cavern Portal
 cavern:aqua_cavern_portal, Aqua Cavern Portal
@@ -5325,41 +5346,41 @@ tconstruct:slime_vine_purple_end:0, Лоза фиолетовой слизи
 tconstruct:slime_vine_purple_mid:0, Лоза фиолетовой слизи
 tconstruct:slime_vine_purple:0, Лоза фиолетовой слизи
 tconstruct:pattern:0, Пустая схема
-tconstruct:pattern:0, Схема - мощная рукоять
-tconstruct:pattern:0, Схема - рукоять
-tconstruct:pattern:0, Схема - навершие кирки
-tconstruct:pattern:0, Схема - ядро нагрудника
-tconstruct:pattern:0, Схема - большое полотно лопаты
-tconstruct:pattern:0, Схема - отделка брони
-tconstruct:pattern:0, Схема - осколок
-tconstruct:pattern:0, Схема - плечо лука
-tconstruct:pattern:0, Схема - широкая карда
-tconstruct:pattern:0, Схема - лезвие топора
 tconstruct:pattern:0, Схема - лезвие ножа
-tconstruct:pattern:0, Схема - древко стрелы
-tconstruct:pattern:0, Схема - Пластина
 tconstruct:pattern:0, Схема - малая гарда
-tconstruct:pattern:0, Схема - мощное крепление
-tconstruct:pattern:0, Схема - навершие косы
-tconstruct:pattern:0, Схема - Kama Head
-tconstruct:pattern:0, Схема - большая пластина
-tconstruct:pattern:0, Схема - оперение
-tconstruct:pattern:0, Схема - крепление
-tconstruct:pattern:0, Схема - табличка
-tconstruct:pattern:0, Схема - полотно лопаты
+tconstruct:pattern:0, Схема - осколок
 tconstruct:pattern:0, Схема - ядро ботинок
-tconstruct:pattern:0, Схема - полотно сковороды
-tconstruct:pattern:0, Схема - ядро понож
+tconstruct:pattern:0, Схема - лезвие меча
+tconstruct:pattern:0, Схема - Набор для полировки
+tconstruct:pattern:0, Схема - ядро нагрудника
+tconstruct:pattern:0, Схема - древко стрелы
 tconstruct:pattern:0, Схема - ядро шлема
+tconstruct:pattern:0, Схема - крепление
+tconstruct:pattern:0, Схема - широкая карда
+tconstruct:pattern:0, Схема - навершие косы
+tconstruct:pattern:0, Схема - плечо лука
+tconstruct:pattern:0, Схема - полотно сковороды
+tconstruct:pattern:0, Схема - мощное крепление
+tconstruct:pattern:0, Схема - Пластина
+tconstruct:pattern:0, Схема - большое полотно лопаты
+tconstruct:pattern:0, Схема - рукоять
+tconstruct:pattern:0, Схема - отделка брони
+tconstruct:pattern:0, Схема - наконечник
+tconstruct:pattern:0, Схема - оперение
+tconstruct:pattern:0, Схема - лезвие топора
 tconstruct:pattern:0, Схема - тетива
 tconstruct:pattern:0, Схема - большое лезвие топора
-tconstruct:pattern:0, Схема - оселок
-tconstruct:pattern:0, Схема - Набор для полировки
-tconstruct:pattern:0, Схема - широкое лезвие меча
 tconstruct:pattern:0, Схема - боёк молота
-tconstruct:pattern:0, Схема - лезвие меча
+tconstruct:pattern:0, Схема - оселок
+tconstruct:pattern:0, Схема - навершие кирки
+tconstruct:pattern:0, Схема - широкое лезвие меча
+tconstruct:pattern:0, Схема - полотно лопаты
+tconstruct:pattern:0, Схема - Kama Head
+tconstruct:pattern:0, Схема - мощная рукоять
 tconstruct:pattern:0, Схема - поперечная гарда
-tconstruct:pattern:0, Схема - наконечник
+tconstruct:pattern:0, Схема - ядро понож
+tconstruct:pattern:0, Схема - табличка
+tconstruct:pattern:0, Схема - большая пластина
 tconstruct:shard:0, Сердце наги осколок
 tconstruct:shard:0, Магический лист осколок
 tconstruct:shard:0, Пламя осколок
@@ -5402,8 +5423,8 @@ tconstruct:shard:0, Ртуть осколок
 tconstruct:shard:0, Латунь осколок
 tconstruct:shard:0, Астральное Серебро осколок
 tconstruct:shard:0, Гепатизон осколок
-tconstruct:shard:0, Сангвинит осколок
 tconstruct:shard:0, Экзимит осколок
+tconstruct:shard:0, Сангвинит осколок
 tconstruct:shard:0, Дезичалк осколок
 tconstruct:shard:0, Целенгил осколок
 tconstruct:shard:0, Теневое Железо осколок
@@ -5424,8 +5445,8 @@ tconstruct:shard:0, Ореклаз осколок
 tconstruct:shard:0, Инолашит осколок
 tconstruct:shard:0, Орихалк осколок
 tconstruct:shard:0, Инфусколий осколок
-tconstruct:shard:0, Мидасий осколок
 tconstruct:shard:0, Теневая Сталь осколок
+tconstruct:shard:0, Мидасий осколок
 tconstruct:shard:0, Крик осколок
 tconstruct:shard:0, Air Infused Thaumium осколок
 tconstruct:shard:0, Fire Infused Thaumium осколок
@@ -5475,8 +5496,8 @@ tconstruct:sharpening_kit:0, Ртуть оселок
 tconstruct:sharpening_kit:0, Латунь оселок
 tconstruct:sharpening_kit:0, Астральное Серебро оселок
 tconstruct:sharpening_kit:0, Гепатизон оселок
-tconstruct:sharpening_kit:0, Сангвинит оселок
 tconstruct:sharpening_kit:0, Экзимит оселок
+tconstruct:sharpening_kit:0, Сангвинит оселок
 tconstruct:sharpening_kit:0, Дезичалк оселок
 tconstruct:sharpening_kit:0, Целенгил оселок
 tconstruct:sharpening_kit:0, Теневое Железо оселок
@@ -5497,8 +5518,8 @@ tconstruct:sharpening_kit:0, Ореклаз оселок
 tconstruct:sharpening_kit:0, Инолашит оселок
 tconstruct:sharpening_kit:0, Орихалк оселок
 tconstruct:sharpening_kit:0, Инфусколий оселок
-tconstruct:sharpening_kit:0, Мидасий оселок
 tconstruct:sharpening_kit:0, Теневая Сталь оселок
+tconstruct:sharpening_kit:0, Мидасий оселок
 tconstruct:sharpening_kit:0, Крик оселок
 tconstruct:sharpening_kit:0, Air Infused Thaumium оселок
 tconstruct:sharpening_kit:0, Fire Infused Thaumium оселок
@@ -5548,8 +5569,8 @@ tconstruct:pick_head:0, Ртуть навершие кирки
 tconstruct:pick_head:0, Латунь навершие кирки
 tconstruct:pick_head:0, Астральное Серебро навершие кирки
 tconstruct:pick_head:0, Гепатизон навершие кирки
-tconstruct:pick_head:0, Сангвинит навершие кирки
 tconstruct:pick_head:0, Экзимит навершие кирки
+tconstruct:pick_head:0, Сангвинит навершие кирки
 tconstruct:pick_head:0, Дезичалк навершие кирки
 tconstruct:pick_head:0, Целенгил навершие кирки
 tconstruct:pick_head:0, Теневое Железо навершие кирки
@@ -5570,8 +5591,8 @@ tconstruct:pick_head:0, Ореклаз навершие кирки
 tconstruct:pick_head:0, Инолашит навершие кирки
 tconstruct:pick_head:0, Орихалк навершие кирки
 tconstruct:pick_head:0, Инфусколий навершие кирки
-tconstruct:pick_head:0, Мидасий навершие кирки
 tconstruct:pick_head:0, Теневая Сталь навершие кирки
+tconstruct:pick_head:0, Мидасий навершие кирки
 tconstruct:pick_head:0, Крик навершие кирки
 tconstruct:pick_head:0, Air Infused Thaumium навершие кирки
 tconstruct:pick_head:0, Fire Infused Thaumium навершие кирки
@@ -5621,8 +5642,8 @@ tconstruct:shovel_head:0, Ртуть полотно лопаты
 tconstruct:shovel_head:0, Латунь полотно лопаты
 tconstruct:shovel_head:0, Астральное Серебро полотно лопаты
 tconstruct:shovel_head:0, Гепатизон полотно лопаты
-tconstruct:shovel_head:0, Сангвинит полотно лопаты
 tconstruct:shovel_head:0, Экзимит полотно лопаты
+tconstruct:shovel_head:0, Сангвинит полотно лопаты
 tconstruct:shovel_head:0, Дезичалк полотно лопаты
 tconstruct:shovel_head:0, Целенгил полотно лопаты
 tconstruct:shovel_head:0, Теневое Железо полотно лопаты
@@ -5643,8 +5664,8 @@ tconstruct:shovel_head:0, Ореклаз полотно лопаты
 tconstruct:shovel_head:0, Инолашит полотно лопаты
 tconstruct:shovel_head:0, Орихалк полотно лопаты
 tconstruct:shovel_head:0, Инфусколий полотно лопаты
-tconstruct:shovel_head:0, Мидасий полотно лопаты
 tconstruct:shovel_head:0, Теневая Сталь полотно лопаты
+tconstruct:shovel_head:0, Мидасий полотно лопаты
 tconstruct:shovel_head:0, Крик полотно лопаты
 tconstruct:shovel_head:0, Air Infused Thaumium полотно лопаты
 tconstruct:shovel_head:0, Fire Infused Thaumium полотно лопаты
@@ -5694,8 +5715,8 @@ tconstruct:axe_head:0, Ртуть лезвие топора
 tconstruct:axe_head:0, Латунь лезвие топора
 tconstruct:axe_head:0, Астральное Серебро лезвие топора
 tconstruct:axe_head:0, Гепатизон лезвие топора
-tconstruct:axe_head:0, Сангвинит лезвие топора
 tconstruct:axe_head:0, Экзимит лезвие топора
+tconstruct:axe_head:0, Сангвинит лезвие топора
 tconstruct:axe_head:0, Дезичалк лезвие топора
 tconstruct:axe_head:0, Целенгил лезвие топора
 tconstruct:axe_head:0, Теневое Железо лезвие топора
@@ -5716,8 +5737,8 @@ tconstruct:axe_head:0, Ореклаз лезвие топора
 tconstruct:axe_head:0, Инолашит лезвие топора
 tconstruct:axe_head:0, Орихалк лезвие топора
 tconstruct:axe_head:0, Инфусколий лезвие топора
-tconstruct:axe_head:0, Мидасий лезвие топора
 tconstruct:axe_head:0, Теневая Сталь лезвие топора
+tconstruct:axe_head:0, Мидасий лезвие топора
 tconstruct:axe_head:0, Крик лезвие топора
 tconstruct:axe_head:0, Air Infused Thaumium лезвие топора
 tconstruct:axe_head:0, Fire Infused Thaumium лезвие топора
@@ -5767,8 +5788,8 @@ tconstruct:broad_axe_head:0, Ртуть большое лезвие топора
 tconstruct:broad_axe_head:0, Латунь большое лезвие топора
 tconstruct:broad_axe_head:0, Астральное Серебро большое лезвие топора
 tconstruct:broad_axe_head:0, Гепатизон большое лезвие топора
-tconstruct:broad_axe_head:0, Сангвинит большое лезвие топора
 tconstruct:broad_axe_head:0, Экзимит большое лезвие топора
+tconstruct:broad_axe_head:0, Сангвинит большое лезвие топора
 tconstruct:broad_axe_head:0, Дезичалк большое лезвие топора
 tconstruct:broad_axe_head:0, Целенгил большое лезвие топора
 tconstruct:broad_axe_head:0, Теневое Железо большое лезвие топора
@@ -5789,8 +5810,8 @@ tconstruct:broad_axe_head:0, Ореклаз большое лезвие топо
 tconstruct:broad_axe_head:0, Инолашит большое лезвие топора
 tconstruct:broad_axe_head:0, Орихалк большое лезвие топора
 tconstruct:broad_axe_head:0, Инфусколий большое лезвие топора
-tconstruct:broad_axe_head:0, Мидасий большое лезвие топора
 tconstruct:broad_axe_head:0, Теневая Сталь большое лезвие топора
+tconstruct:broad_axe_head:0, Мидасий большое лезвие топора
 tconstruct:broad_axe_head:0, Крик большое лезвие топора
 tconstruct:broad_axe_head:0, Air Infused Thaumium большое лезвие топора
 tconstruct:broad_axe_head:0, Fire Infused Thaumium большое лезвие топора
@@ -5840,8 +5861,8 @@ tconstruct:sword_blade:0, Ртуть лезвие меча
 tconstruct:sword_blade:0, Латунь лезвие меча
 tconstruct:sword_blade:0, Астральное Серебро лезвие меча
 tconstruct:sword_blade:0, Гепатизон лезвие меча
-tconstruct:sword_blade:0, Сангвинит лезвие меча
 tconstruct:sword_blade:0, Экзимит лезвие меча
+tconstruct:sword_blade:0, Сангвинит лезвие меча
 tconstruct:sword_blade:0, Дезичалк лезвие меча
 tconstruct:sword_blade:0, Целенгил лезвие меча
 tconstruct:sword_blade:0, Теневое Железо лезвие меча
@@ -5862,8 +5883,8 @@ tconstruct:sword_blade:0, Ореклаз лезвие меча
 tconstruct:sword_blade:0, Инолашит лезвие меча
 tconstruct:sword_blade:0, Орихалк лезвие меча
 tconstruct:sword_blade:0, Инфусколий лезвие меча
-tconstruct:sword_blade:0, Мидасий лезвие меча
 tconstruct:sword_blade:0, Теневая Сталь лезвие меча
+tconstruct:sword_blade:0, Мидасий лезвие меча
 tconstruct:sword_blade:0, Крик лезвие меча
 tconstruct:sword_blade:0, Air Infused Thaumium лезвие меча
 tconstruct:sword_blade:0, Fire Infused Thaumium лезвие меча
@@ -5913,8 +5934,8 @@ tconstruct:large_sword_blade:0, Ртуть широкое лезвие меча
 tconstruct:large_sword_blade:0, Латунь широкое лезвие меча
 tconstruct:large_sword_blade:0, Астральное Серебро широкое лезвие меча
 tconstruct:large_sword_blade:0, Гепатизон широкое лезвие меча
-tconstruct:large_sword_blade:0, Сангвинит широкое лезвие меча
 tconstruct:large_sword_blade:0, Экзимит широкое лезвие меча
+tconstruct:large_sword_blade:0, Сангвинит широкое лезвие меча
 tconstruct:large_sword_blade:0, Дезичалк широкое лезвие меча
 tconstruct:large_sword_blade:0, Целенгил широкое лезвие меча
 tconstruct:large_sword_blade:0, Теневое Железо широкое лезвие меча
@@ -5935,8 +5956,8 @@ tconstruct:large_sword_blade:0, Ореклаз широкое лезвие ме�
 tconstruct:large_sword_blade:0, Инолашит широкое лезвие меча
 tconstruct:large_sword_blade:0, Орихалк широкое лезвие меча
 tconstruct:large_sword_blade:0, Инфусколий широкое лезвие меча
-tconstruct:large_sword_blade:0, Мидасий широкое лезвие меча
 tconstruct:large_sword_blade:0, Теневая Сталь широкое лезвие меча
+tconstruct:large_sword_blade:0, Мидасий широкое лезвие меча
 tconstruct:large_sword_blade:0, Крик широкое лезвие меча
 tconstruct:large_sword_blade:0, Air Infused Thaumium широкое лезвие меча
 tconstruct:large_sword_blade:0, Fire Infused Thaumium широкое лезвие меча
@@ -5986,8 +6007,8 @@ tconstruct:hammer_head:0, Ртуть боёк молота
 tconstruct:hammer_head:0, Латунь боёк молота
 tconstruct:hammer_head:0, Астральное Серебро боёк молота
 tconstruct:hammer_head:0, Гепатизон боёк молота
-tconstruct:hammer_head:0, Сангвинит боёк молота
 tconstruct:hammer_head:0, Экзимит боёк молота
+tconstruct:hammer_head:0, Сангвинит боёк молота
 tconstruct:hammer_head:0, Дезичалк боёк молота
 tconstruct:hammer_head:0, Целенгил боёк молота
 tconstruct:hammer_head:0, Теневое Железо боёк молота
@@ -6008,8 +6029,8 @@ tconstruct:hammer_head:0, Ореклаз боёк молота
 tconstruct:hammer_head:0, Инолашит боёк молота
 tconstruct:hammer_head:0, Орихалк боёк молота
 tconstruct:hammer_head:0, Инфусколий боёк молота
-tconstruct:hammer_head:0, Мидасий боёк молота
 tconstruct:hammer_head:0, Теневая Сталь боёк молота
+tconstruct:hammer_head:0, Мидасий боёк молота
 tconstruct:hammer_head:0, Крик боёк молота
 tconstruct:hammer_head:0, Air Infused Thaumium боёк молота
 tconstruct:hammer_head:0, Fire Infused Thaumium боёк молота
@@ -6059,8 +6080,8 @@ tconstruct:excavator_head:0, Ртуть большое полотно лопат
 tconstruct:excavator_head:0, Латунь большое полотно лопаты
 tconstruct:excavator_head:0, Астральное Серебро большое полотно лопаты
 tconstruct:excavator_head:0, Гепатизон большое полотно лопаты
-tconstruct:excavator_head:0, Сангвинит большое полотно лопаты
 tconstruct:excavator_head:0, Экзимит большое полотно лопаты
+tconstruct:excavator_head:0, Сангвинит большое полотно лопаты
 tconstruct:excavator_head:0, Дезичалк большое полотно лопаты
 tconstruct:excavator_head:0, Целенгил большое полотно лопаты
 tconstruct:excavator_head:0, Теневое Железо большое полотно лопаты
@@ -6081,8 +6102,8 @@ tconstruct:excavator_head:0, Ореклаз большое полотно лоп
 tconstruct:excavator_head:0, Инолашит большое полотно лопаты
 tconstruct:excavator_head:0, Орихалк большое полотно лопаты
 tconstruct:excavator_head:0, Инфусколий большое полотно лопаты
-tconstruct:excavator_head:0, Мидасий большое полотно лопаты
 tconstruct:excavator_head:0, Теневая Сталь большое полотно лопаты
+tconstruct:excavator_head:0, Мидасий большое полотно лопаты
 tconstruct:excavator_head:0, Крик большое полотно лопаты
 tconstruct:excavator_head:0, Air Infused Thaumium большое полотно лопаты
 tconstruct:excavator_head:0, Fire Infused Thaumium большое полотно лопаты
@@ -6132,8 +6153,8 @@ tconstruct:kama_head:0, Ртуть Kama Head
 tconstruct:kama_head:0, Латунь Kama Head
 tconstruct:kama_head:0, Астральное Серебро Kama Head
 tconstruct:kama_head:0, Гепатизон Kama Head
-tconstruct:kama_head:0, Сангвинит Kama Head
 tconstruct:kama_head:0, Экзимит Kama Head
+tconstruct:kama_head:0, Сангвинит Kama Head
 tconstruct:kama_head:0, Дезичалк Kama Head
 tconstruct:kama_head:0, Целенгил Kama Head
 tconstruct:kama_head:0, Теневое Железо Kama Head
@@ -6154,8 +6175,8 @@ tconstruct:kama_head:0, Ореклаз Kama Head
 tconstruct:kama_head:0, Инолашит Kama Head
 tconstruct:kama_head:0, Орихалк Kama Head
 tconstruct:kama_head:0, Инфусколий Kama Head
-tconstruct:kama_head:0, Мидасий Kama Head
 tconstruct:kama_head:0, Теневая Сталь Kama Head
+tconstruct:kama_head:0, Мидасий Kama Head
 tconstruct:kama_head:0, Крик Kama Head
 tconstruct:kama_head:0, Air Infused Thaumium Kama Head
 tconstruct:kama_head:0, Fire Infused Thaumium Kama Head
@@ -6205,8 +6226,8 @@ tconstruct:scythe_head:0, Ртуть навершие косы
 tconstruct:scythe_head:0, Латунь навершие косы
 tconstruct:scythe_head:0, Астральное Серебро навершие косы
 tconstruct:scythe_head:0, Гепатизон навершие косы
-tconstruct:scythe_head:0, Сангвинит навершие косы
 tconstruct:scythe_head:0, Экзимит навершие косы
+tconstruct:scythe_head:0, Сангвинит навершие косы
 tconstruct:scythe_head:0, Дезичалк навершие косы
 tconstruct:scythe_head:0, Целенгил навершие косы
 tconstruct:scythe_head:0, Теневое Железо навершие косы
@@ -6227,8 +6248,8 @@ tconstruct:scythe_head:0, Ореклаз навершие косы
 tconstruct:scythe_head:0, Инолашит навершие косы
 tconstruct:scythe_head:0, Орихалк навершие косы
 tconstruct:scythe_head:0, Инфусколий навершие косы
-tconstruct:scythe_head:0, Мидасий навершие косы
 tconstruct:scythe_head:0, Теневая Сталь навершие косы
+tconstruct:scythe_head:0, Мидасий навершие косы
 tconstruct:scythe_head:0, Крик навершие косы
 tconstruct:scythe_head:0, Air Infused Thaumium навершие косы
 tconstruct:scythe_head:0, Fire Infused Thaumium навершие косы
@@ -6278,8 +6299,8 @@ tconstruct:pan_head:0, Ртуть полотно сковороды
 tconstruct:pan_head:0, Латунь полотно сковороды
 tconstruct:pan_head:0, Астральное Серебро полотно сковороды
 tconstruct:pan_head:0, Гепатизон полотно сковороды
-tconstruct:pan_head:0, Сангвинит полотно сковороды
 tconstruct:pan_head:0, Экзимит полотно сковороды
+tconstruct:pan_head:0, Сангвинит полотно сковороды
 tconstruct:pan_head:0, Дезичалк полотно сковороды
 tconstruct:pan_head:0, Целенгил полотно сковороды
 tconstruct:pan_head:0, Теневое Железо полотно сковороды
@@ -6300,8 +6321,8 @@ tconstruct:pan_head:0, Ореклаз полотно сковороды
 tconstruct:pan_head:0, Инолашит полотно сковороды
 tconstruct:pan_head:0, Орихалк полотно сковороды
 tconstruct:pan_head:0, Инфусколий полотно сковороды
-tconstruct:pan_head:0, Мидасий полотно сковороды
 tconstruct:pan_head:0, Теневая Сталь полотно сковороды
+tconstruct:pan_head:0, Мидасий полотно сковороды
 tconstruct:pan_head:0, Крик полотно сковороды
 tconstruct:pan_head:0, Air Infused Thaumium полотно сковороды
 tconstruct:pan_head:0, Fire Infused Thaumium полотно сковороды
@@ -6351,8 +6372,8 @@ tconstruct:sign_head:0, Ртуть табличка
 tconstruct:sign_head:0, Латунь табличка
 tconstruct:sign_head:0, Астральное Серебро табличка
 tconstruct:sign_head:0, Гепатизон табличка
-tconstruct:sign_head:0, Сангвинит табличка
 tconstruct:sign_head:0, Экзимит табличка
+tconstruct:sign_head:0, Сангвинит табличка
 tconstruct:sign_head:0, Дезичалк табличка
 tconstruct:sign_head:0, Целенгил табличка
 tconstruct:sign_head:0, Теневое Железо табличка
@@ -6373,8 +6394,8 @@ tconstruct:sign_head:0, Ореклаз табличка
 tconstruct:sign_head:0, Инолашит табличка
 tconstruct:sign_head:0, Орихалк табличка
 tconstruct:sign_head:0, Инфусколий табличка
-tconstruct:sign_head:0, Мидасий табличка
 tconstruct:sign_head:0, Теневая Сталь табличка
+tconstruct:sign_head:0, Мидасий табличка
 tconstruct:sign_head:0, Крик табличка
 tconstruct:sign_head:0, Air Infused Thaumium табличка
 tconstruct:sign_head:0, Fire Infused Thaumium табличка
@@ -6423,8 +6444,8 @@ tconstruct:tool_rod:0, Ртуть рукоять
 tconstruct:tool_rod:0, Латунь рукоять
 tconstruct:tool_rod:0, Астральное Серебро рукоять
 tconstruct:tool_rod:0, Гепатизон рукоять
-tconstruct:tool_rod:0, Сангвинит рукоять
 tconstruct:tool_rod:0, Экзимит рукоять
+tconstruct:tool_rod:0, Сангвинит рукоять
 tconstruct:tool_rod:0, Дезичалк рукоять
 tconstruct:tool_rod:0, Целенгил рукоять
 tconstruct:tool_rod:0, Теневое Железо рукоять
@@ -6445,8 +6466,8 @@ tconstruct:tool_rod:0, Ореклаз рукоять
 tconstruct:tool_rod:0, Инолашит рукоять
 tconstruct:tool_rod:0, Орихалк рукоять
 tconstruct:tool_rod:0, Инфусколий рукоять
-tconstruct:tool_rod:0, Мидасий рукоять
 tconstruct:tool_rod:0, Теневая Сталь рукоять
+tconstruct:tool_rod:0, Мидасий рукоять
 tconstruct:tool_rod:0, Крик рукоять
 tconstruct:tool_rod:0, material.metallurgy.rubracium.name рукоять
 tconstruct:tool_rod:0, Air Infused Thaumium рукоять
@@ -6496,8 +6517,8 @@ tconstruct:tough_tool_rod:0, Ртуть мощная рукоять
 tconstruct:tough_tool_rod:0, Латунь мощная рукоять
 tconstruct:tough_tool_rod:0, Астральное Серебро мощная рукоять
 tconstruct:tough_tool_rod:0, Гепатизон мощная рукоять
-tconstruct:tough_tool_rod:0, Сангвинит мощная рукоять
 tconstruct:tough_tool_rod:0, Экзимит мощная рукоять
+tconstruct:tough_tool_rod:0, Сангвинит мощная рукоять
 tconstruct:tough_tool_rod:0, Дезичалк мощная рукоять
 tconstruct:tough_tool_rod:0, Целенгил мощная рукоять
 tconstruct:tough_tool_rod:0, Теневое Железо мощная рукоять
@@ -6518,8 +6539,8 @@ tconstruct:tough_tool_rod:0, Ореклаз мощная рукоять
 tconstruct:tough_tool_rod:0, Инолашит мощная рукоять
 tconstruct:tough_tool_rod:0, Орихалк мощная рукоять
 tconstruct:tough_tool_rod:0, Инфусколий мощная рукоять
-tconstruct:tough_tool_rod:0, Мидасий мощная рукоять
 tconstruct:tough_tool_rod:0, Теневая Сталь мощная рукоять
+tconstruct:tough_tool_rod:0, Мидасий мощная рукоять
 tconstruct:tough_tool_rod:0, Крик мощная рукоять
 tconstruct:tough_tool_rod:0, material.metallurgy.rubracium.name мощная рукоять
 tconstruct:tough_tool_rod:0, Air Infused Thaumium мощная рукоять
@@ -6569,8 +6590,8 @@ tconstruct:binding:0, Ртуть крепление
 tconstruct:binding:0, Латунь крепление
 tconstruct:binding:0, Астральное Серебро крепление
 tconstruct:binding:0, Гепатизон крепление
-tconstruct:binding:0, Сангвинит крепление
 tconstruct:binding:0, Экзимит крепление
+tconstruct:binding:0, Сангвинит крепление
 tconstruct:binding:0, Дезичалк крепление
 tconstruct:binding:0, Целенгил крепление
 tconstruct:binding:0, Теневое Железо крепление
@@ -6591,8 +6612,8 @@ tconstruct:binding:0, Ореклаз крепление
 tconstruct:binding:0, Инолашит крепление
 tconstruct:binding:0, Орихалк крепление
 tconstruct:binding:0, Инфусколий крепление
-tconstruct:binding:0, Мидасий крепление
 tconstruct:binding:0, Теневая Сталь крепление
+tconstruct:binding:0, Мидасий крепление
 tconstruct:binding:0, Крик крепление
 tconstruct:binding:0, material.metallurgy.rubracium.name крепление
 tconstruct:binding:0, Air Infused Thaumium крепление
@@ -6642,8 +6663,8 @@ tconstruct:tough_binding:0, Ртуть мощное крепление
 tconstruct:tough_binding:0, Латунь мощное крепление
 tconstruct:tough_binding:0, Астральное Серебро мощное крепление
 tconstruct:tough_binding:0, Гепатизон мощное крепление
-tconstruct:tough_binding:0, Сангвинит мощное крепление
 tconstruct:tough_binding:0, Экзимит мощное крепление
+tconstruct:tough_binding:0, Сангвинит мощное крепление
 tconstruct:tough_binding:0, Дезичалк мощное крепление
 tconstruct:tough_binding:0, Целенгил мощное крепление
 tconstruct:tough_binding:0, Теневое Железо мощное крепление
@@ -6664,8 +6685,8 @@ tconstruct:tough_binding:0, Ореклаз мощное крепление
 tconstruct:tough_binding:0, Инолашит мощное крепление
 tconstruct:tough_binding:0, Орихалк мощное крепление
 tconstruct:tough_binding:0, Инфусколий мощное крепление
-tconstruct:tough_binding:0, Мидасий мощное крепление
 tconstruct:tough_binding:0, Теневая Сталь мощное крепление
+tconstruct:tough_binding:0, Мидасий мощное крепление
 tconstruct:tough_binding:0, Крик мощное крепление
 tconstruct:tough_binding:0, material.metallurgy.rubracium.name мощное крепление
 tconstruct:tough_binding:0, Air Infused Thaumium мощное крепление
@@ -6715,8 +6736,8 @@ tconstruct:wide_guard:0, Ртуть широкая карда
 tconstruct:wide_guard:0, Латунь широкая карда
 tconstruct:wide_guard:0, Астральное Серебро широкая карда
 tconstruct:wide_guard:0, Гепатизон широкая карда
-tconstruct:wide_guard:0, Сангвинит широкая карда
 tconstruct:wide_guard:0, Экзимит широкая карда
+tconstruct:wide_guard:0, Сангвинит широкая карда
 tconstruct:wide_guard:0, Дезичалк широкая карда
 tconstruct:wide_guard:0, Целенгил широкая карда
 tconstruct:wide_guard:0, Теневое Железо широкая карда
@@ -6737,8 +6758,8 @@ tconstruct:wide_guard:0, Ореклаз широкая карда
 tconstruct:wide_guard:0, Инолашит широкая карда
 tconstruct:wide_guard:0, Орихалк широкая карда
 tconstruct:wide_guard:0, Инфусколий широкая карда
-tconstruct:wide_guard:0, Мидасий широкая карда
 tconstruct:wide_guard:0, Теневая Сталь широкая карда
+tconstruct:wide_guard:0, Мидасий широкая карда
 tconstruct:wide_guard:0, Крик широкая карда
 tconstruct:wide_guard:0, material.metallurgy.rubracium.name широкая карда
 tconstruct:wide_guard:0, Air Infused Thaumium широкая карда
@@ -6788,8 +6809,8 @@ tconstruct:hand_guard:0, Ртуть малая гарда
 tconstruct:hand_guard:0, Латунь малая гарда
 tconstruct:hand_guard:0, Астральное Серебро малая гарда
 tconstruct:hand_guard:0, Гепатизон малая гарда
-tconstruct:hand_guard:0, Сангвинит малая гарда
 tconstruct:hand_guard:0, Экзимит малая гарда
+tconstruct:hand_guard:0, Сангвинит малая гарда
 tconstruct:hand_guard:0, Дезичалк малая гарда
 tconstruct:hand_guard:0, Целенгил малая гарда
 tconstruct:hand_guard:0, Теневое Железо малая гарда
@@ -6810,8 +6831,8 @@ tconstruct:hand_guard:0, Ореклаз малая гарда
 tconstruct:hand_guard:0, Инолашит малая гарда
 tconstruct:hand_guard:0, Орихалк малая гарда
 tconstruct:hand_guard:0, Инфусколий малая гарда
-tconstruct:hand_guard:0, Мидасий малая гарда
 tconstruct:hand_guard:0, Теневая Сталь малая гарда
+tconstruct:hand_guard:0, Мидасий малая гарда
 tconstruct:hand_guard:0, Крик малая гарда
 tconstruct:hand_guard:0, material.metallurgy.rubracium.name малая гарда
 tconstruct:hand_guard:0, Air Infused Thaumium малая гарда
@@ -6861,8 +6882,8 @@ tconstruct:cross_guard:0, Ртуть поперечная гарда
 tconstruct:cross_guard:0, Латунь поперечная гарда
 tconstruct:cross_guard:0, Астральное Серебро поперечная гарда
 tconstruct:cross_guard:0, Гепатизон поперечная гарда
-tconstruct:cross_guard:0, Сангвинит поперечная гарда
 tconstruct:cross_guard:0, Экзимит поперечная гарда
+tconstruct:cross_guard:0, Сангвинит поперечная гарда
 tconstruct:cross_guard:0, Дезичалк поперечная гарда
 tconstruct:cross_guard:0, Целенгил поперечная гарда
 tconstruct:cross_guard:0, Теневое Железо поперечная гарда
@@ -6883,8 +6904,8 @@ tconstruct:cross_guard:0, Ореклаз поперечная гарда
 tconstruct:cross_guard:0, Инолашит поперечная гарда
 tconstruct:cross_guard:0, Орихалк поперечная гарда
 tconstruct:cross_guard:0, Инфусколий поперечная гарда
-tconstruct:cross_guard:0, Мидасий поперечная гарда
 tconstruct:cross_guard:0, Теневая Сталь поперечная гарда
+tconstruct:cross_guard:0, Мидасий поперечная гарда
 tconstruct:cross_guard:0, Крик поперечная гарда
 tconstruct:cross_guard:0, material.metallurgy.rubracium.name поперечная гарда
 tconstruct:cross_guard:0, Air Infused Thaumium поперечная гарда
@@ -6935,8 +6956,8 @@ tconstruct:large_plate:0, Ртуть большая пластина
 tconstruct:large_plate:0, Латунь большая пластина
 tconstruct:large_plate:0, Астральное Серебро большая пластина
 tconstruct:large_plate:0, Гепатизон большая пластина
-tconstruct:large_plate:0, Сангвинит большая пластина
 tconstruct:large_plate:0, Экзимит большая пластина
+tconstruct:large_plate:0, Сангвинит большая пластина
 tconstruct:large_plate:0, Дезичалк большая пластина
 tconstruct:large_plate:0, Целенгил большая пластина
 tconstruct:large_plate:0, Теневое Железо большая пластина
@@ -6957,8 +6978,8 @@ tconstruct:large_plate:0, Ореклаз большая пластина
 tconstruct:large_plate:0, Инолашит большая пластина
 tconstruct:large_plate:0, Орихалк большая пластина
 tconstruct:large_plate:0, Инфусколий большая пластина
-tconstruct:large_plate:0, Мидасий большая пластина
 tconstruct:large_plate:0, Теневая Сталь большая пластина
+tconstruct:large_plate:0, Мидасий большая пластина
 tconstruct:large_plate:0, Крик большая пластина
 tconstruct:large_plate:0, material.metallurgy.rubracium.name большая пластина
 tconstruct:large_plate:0, Air Infused Thaumium большая пластина
@@ -7008,8 +7029,8 @@ tconstruct:knife_blade:0, Ртуть лезвие ножа
 tconstruct:knife_blade:0, Латунь лезвие ножа
 tconstruct:knife_blade:0, Астральное Серебро лезвие ножа
 tconstruct:knife_blade:0, Гепатизон лезвие ножа
-tconstruct:knife_blade:0, Сангвинит лезвие ножа
 tconstruct:knife_blade:0, Экзимит лезвие ножа
+tconstruct:knife_blade:0, Сангвинит лезвие ножа
 tconstruct:knife_blade:0, Дезичалк лезвие ножа
 tconstruct:knife_blade:0, Целенгил лезвие ножа
 tconstruct:knife_blade:0, Теневое Железо лезвие ножа
@@ -7030,8 +7051,8 @@ tconstruct:knife_blade:0, Ореклаз лезвие ножа
 tconstruct:knife_blade:0, Инолашит лезвие ножа
 tconstruct:knife_blade:0, Орихалк лезвие ножа
 tconstruct:knife_blade:0, Инфусколий лезвие ножа
-tconstruct:knife_blade:0, Мидасий лезвие ножа
 tconstruct:knife_blade:0, Теневая Сталь лезвие ножа
+tconstruct:knife_blade:0, Мидасий лезвие ножа
 tconstruct:knife_blade:0, Крик лезвие ножа
 tconstruct:knife_blade:0, Air Infused Thaumium лезвие ножа
 tconstruct:knife_blade:0, Fire Infused Thaumium лезвие ножа
@@ -7078,8 +7099,8 @@ tconstruct:bow_limb:0, Ртуть плечо лука
 tconstruct:bow_limb:0, Латунь плечо лука
 tconstruct:bow_limb:0, Астральное Серебро плечо лука
 tconstruct:bow_limb:0, Гепатизон плечо лука
-tconstruct:bow_limb:0, Сангвинит плечо лука
 tconstruct:bow_limb:0, Экзимит плечо лука
+tconstruct:bow_limb:0, Сангвинит плечо лука
 tconstruct:bow_limb:0, Дезичалк плечо лука
 tconstruct:bow_limb:0, Целенгил плечо лука
 tconstruct:bow_limb:0, Теневое Железо плечо лука
@@ -7147,8 +7168,8 @@ tconstruct:arrow_head:0, Ртуть наконечник
 tconstruct:arrow_head:0, Латунь наконечник
 tconstruct:arrow_head:0, Астральное Серебро наконечник
 tconstruct:arrow_head:0, Гепатизон наконечник
-tconstruct:arrow_head:0, Сангвинит наконечник
 tconstruct:arrow_head:0, Экзимит наконечник
+tconstruct:arrow_head:0, Сангвинит наконечник
 tconstruct:arrow_head:0, Дезичалк наконечник
 tconstruct:arrow_head:0, Целенгил наконечник
 tconstruct:arrow_head:0, Теневое Железо наконечник
@@ -7169,8 +7190,8 @@ tconstruct:arrow_head:0, Ореклаз наконечник
 tconstruct:arrow_head:0, Инолашит наконечник
 tconstruct:arrow_head:0, Орихалк наконечник
 tconstruct:arrow_head:0, Инфусколий наконечник
-tconstruct:arrow_head:0, Мидасий наконечник
 tconstruct:arrow_head:0, Теневая Сталь наконечник
+tconstruct:arrow_head:0, Мидасий наконечник
 tconstruct:arrow_head:0, Крик наконечник
 tconstruct:arrow_head:0, Air Infused Thaumium наконечник
 tconstruct:arrow_head:0, Fire Infused Thaumium наконечник
@@ -7339,78 +7360,78 @@ tconstruct:seared_stairs_road:0, Сушёные ступеньки (дорога
 tconstruct:seared_stairs_tile:0, Сушёные ступеньки (мини-плитка)
 tconstruct:seared_stairs_creeper:0, Сушёные ступеньки (кладка-крипер)
 tconstruct:cast:0, Пустая отливка
-tconstruct:cast:0, Отливка - мощная рукоять
-tconstruct:cast:0, Отливка - рукоять
-tconstruct:cast:0, Отливка - навершие кирки
-tconstruct:cast:0, Отливка - ядро нагрудника
-tconstruct:cast:0, Отливка - большое полотно лопаты
-tconstruct:cast:0, Отливка - отделка брони
-tconstruct:cast:0, Отливка - осколок
-tconstruct:cast:0, Отливка - плечо лука
-tconstruct:cast:0, Отливка - широкая карда
-tconstruct:cast:0, Отливка - лезвие топора
 tconstruct:cast:0, Отливка - лезвие ножа
-tconstruct:cast:0, Отливка - древко стрелы
-tconstruct:cast:0, Отливка - Пластина
 tconstruct:cast:0, Отливка - малая гарда
-tconstruct:cast:0, Отливка - мощное крепление
-tconstruct:cast:0, Отливка - навершие косы
-tconstruct:cast:0, Отливка - Kama Head
-tconstruct:cast:0, Отливка - большая пластина
-tconstruct:cast:0, Отливка - крепление
-tconstruct:cast:0, Отливка - табличка
-tconstruct:cast:0, Отливка - полотно лопаты
+tconstruct:cast:0, Отливка - осколок
 tconstruct:cast:0, Отливка - ядро ботинок
-tconstruct:cast:0, Отливка - полотно сковороды
-tconstruct:cast:0, Отливка - ядро понож
-tconstruct:cast:0, Отливка - ядро шлема
-tconstruct:cast:0, Отливка - большое лезвие топора
-tconstruct:cast:0, Отливка - оселок
-tconstruct:cast:0, Отливка - Набор для полировки
-tconstruct:cast:0, Отливка - широкое лезвие меча
-tconstruct:cast:0, Отливка - боёк молота
 tconstruct:cast:0, Отливка - лезвие меча
-tconstruct:cast:0, Отливка - поперечная гарда
+tconstruct:cast:0, Отливка - Набор для полировки
+tconstruct:cast:0, Отливка - ядро нагрудника
+tconstruct:cast:0, Отливка - древко стрелы
+tconstruct:cast:0, Отливка - ядро шлема
+tconstruct:cast:0, Отливка - крепление
+tconstruct:cast:0, Отливка - широкая карда
+tconstruct:cast:0, Отливка - навершие косы
+tconstruct:cast:0, Отливка - плечо лука
+tconstruct:cast:0, Отливка - полотно сковороды
+tconstruct:cast:0, Отливка - мощное крепление
+tconstruct:cast:0, Отливка - Пластина
+tconstruct:cast:0, Отливка - большое полотно лопаты
+tconstruct:cast:0, Отливка - рукоять
+tconstruct:cast:0, Отливка - отделка брони
 tconstruct:cast:0, Отливка - наконечник
+tconstruct:cast:0, Отливка - лезвие топора
+tconstruct:cast:0, Отливка - большое лезвие топора
+tconstruct:cast:0, Отливка - боёк молота
+tconstruct:cast:0, Отливка - оселок
+tconstruct:cast:0, Отливка - навершие кирки
+tconstruct:cast:0, Отливка - широкое лезвие меча
+tconstruct:cast:0, Отливка - полотно лопаты
+tconstruct:cast:0, Отливка - Kama Head
+tconstruct:cast:0, Отливка - мощная рукоять
+tconstruct:cast:0, Отливка - поперечная гарда
+tconstruct:cast:0, Отливка - ядро понож
+tconstruct:cast:0, Отливка - табличка
+tconstruct:cast:0, Отливка - большая пластина
 tconstruct:cast_custom:0, Отливка слитка
 tconstruct:cast_custom:1, Отливка самородка
 tconstruct:cast_custom:2, Отливка камня
 tconstruct:cast_custom:3, Отливка пластины
 tconstruct:cast_custom:4, Отливка шестерни
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Глиняная отливка - мощная рукоять
-tconstruct:clay_cast:0, Глиняная отливка - рукоять
-tconstruct:clay_cast:0, Глиняная отливка - навершие кирки
-tconstruct:clay_cast:0, Глиняная отливка - ядро нагрудника
-tconstruct:clay_cast:0, Глиняная отливка - большое полотно лопаты
-tconstruct:clay_cast:0, Глиняная отливка - отделка брони
-tconstruct:clay_cast:0, Глиняная отливка - осколок
-tconstruct:clay_cast:0, Глиняная отливка - плечо лука
-tconstruct:clay_cast:0, Глиняная отливка - широкая карда
-tconstruct:clay_cast:0, Глиняная отливка - лезвие топора
 tconstruct:clay_cast:0, Глиняная отливка - лезвие ножа
-tconstruct:clay_cast:0, Глиняная отливка - древко стрелы
-tconstruct:clay_cast:0, Глиняная отливка - Пластина
 tconstruct:clay_cast:0, Глиняная отливка - малая гарда
-tconstruct:clay_cast:0, Глиняная отливка - мощное крепление
-tconstruct:clay_cast:0, Глиняная отливка - навершие косы
-tconstruct:clay_cast:0, Глиняная отливка - Kama Head
-tconstruct:clay_cast:0, Глиняная отливка - большая пластина
-tconstruct:clay_cast:0, Глиняная отливка - крепление
-tconstruct:clay_cast:0, Глиняная отливка - табличка
-tconstruct:clay_cast:0, Глиняная отливка - полотно лопаты
+tconstruct:clay_cast:0, Глиняная отливка - осколок
 tconstruct:clay_cast:0, Глиняная отливка - ядро ботинок
-tconstruct:clay_cast:0, Глиняная отливка - полотно сковороды
-tconstruct:clay_cast:0, Глиняная отливка - ядро понож
-tconstruct:clay_cast:0, Глиняная отливка - ядро шлема
-tconstruct:clay_cast:0, Глиняная отливка - большое лезвие топора
-tconstruct:clay_cast:0, Глиняная отливка - оселок
-tconstruct:clay_cast:0, Глиняная отливка - Набор для полировки
-tconstruct:clay_cast:0, Глиняная отливка - широкое лезвие меча
-tconstruct:clay_cast:0, Глиняная отливка - боёк молота
 tconstruct:clay_cast:0, Глиняная отливка - лезвие меча
-tconstruct:clay_cast:0, Глиняная отливка - поперечная гарда
+tconstruct:clay_cast:0, Глиняная отливка - Набор для полировки
+tconstruct:clay_cast:0, Глиняная отливка - ядро нагрудника
+tconstruct:clay_cast:0, Глиняная отливка - древко стрелы
+tconstruct:clay_cast:0, Глиняная отливка - ядро шлема
+tconstruct:clay_cast:0, Глиняная отливка - крепление
+tconstruct:clay_cast:0, Глиняная отливка - широкая карда
+tconstruct:clay_cast:0, Глиняная отливка - навершие косы
+tconstruct:clay_cast:0, Глиняная отливка - плечо лука
+tconstruct:clay_cast:0, Глиняная отливка - полотно сковороды
+tconstruct:clay_cast:0, Глиняная отливка - мощное крепление
+tconstruct:clay_cast:0, Глиняная отливка - Пластина
+tconstruct:clay_cast:0, Глиняная отливка - большое полотно лопаты
+tconstruct:clay_cast:0, Глиняная отливка - рукоять
+tconstruct:clay_cast:0, Глиняная отливка - отделка брони
 tconstruct:clay_cast:0, Глиняная отливка - наконечник
+tconstruct:clay_cast:0, Глиняная отливка - лезвие топора
+tconstruct:clay_cast:0, Глиняная отливка - большое лезвие топора
+tconstruct:clay_cast:0, Глиняная отливка - боёк молота
+tconstruct:clay_cast:0, Глиняная отливка - оселок
+tconstruct:clay_cast:0, Глиняная отливка - навершие кирки
+tconstruct:clay_cast:0, Глиняная отливка - широкое лезвие меча
+tconstruct:clay_cast:0, Глиняная отливка - полотно лопаты
+tconstruct:clay_cast:0, Глиняная отливка - Kama Head
+tconstruct:clay_cast:0, Глиняная отливка - мощная рукоять
+tconstruct:clay_cast:0, Глиняная отливка - поперечная гарда
+tconstruct:clay_cast:0, Глиняная отливка - ядро понож
+tconstruct:clay_cast:0, Глиняная отливка - табличка
+tconstruct:clay_cast:0, Глиняная отливка - большая пластина
 tconstruct:stone_torch:0, Каменный факел
 tconstruct:stone_ladder:0, Каменная лестница
 tconstruct:punji:0, Тростниковые колья
@@ -7525,8 +7546,8 @@ conarm:helmet_core:0, Ртуть ядро шлема
 conarm:helmet_core:0, Латунь ядро шлема
 conarm:helmet_core:0, Астральное Серебро ядро шлема
 conarm:helmet_core:0, Гепатизон ядро шлема
-conarm:helmet_core:0, Сангвинит ядро шлема
 conarm:helmet_core:0, Экзимит ядро шлема
+conarm:helmet_core:0, Сангвинит ядро шлема
 conarm:helmet_core:0, Дезичалк ядро шлема
 conarm:helmet_core:0, Целенгил ядро шлема
 conarm:helmet_core:0, Теневое Железо ядро шлема
@@ -7548,8 +7569,8 @@ conarm:helmet_core:0, material.metallurgy.osmium.name ядро шлема
 conarm:helmet_core:0, Ореклаз ядро шлема
 conarm:helmet_core:0, Инолашит ядро шлема
 conarm:helmet_core:0, Орихалк ядро шлема
-conarm:helmet_core:0, Мидасий ядро шлема
 conarm:helmet_core:0, Теневая Сталь ядро шлема
+conarm:helmet_core:0, Мидасий ядро шлема
 conarm:helmet_core:0, Крик ядро шлема
 conarm:armor_trim:0, Деревянн. отделка брони
 conarm:armor_trim:0, Каменн. отделка брони
@@ -7588,8 +7609,8 @@ conarm:armor_trim:0, Ртуть отделка брони
 conarm:armor_trim:0, Латунь отделка брони
 conarm:armor_trim:0, Астральное Серебро отделка брони
 conarm:armor_trim:0, Гепатизон отделка брони
-conarm:armor_trim:0, Сангвинит отделка брони
 conarm:armor_trim:0, Экзимит отделка брони
+conarm:armor_trim:0, Сангвинит отделка брони
 conarm:armor_trim:0, Дезичалк отделка брони
 conarm:armor_trim:0, Целенгил отделка брони
 conarm:armor_trim:0, Теневое Железо отделка брони
@@ -7611,8 +7632,8 @@ conarm:armor_trim:0, material.metallurgy.osmium.name отделка брони
 conarm:armor_trim:0, Ореклаз отделка брони
 conarm:armor_trim:0, Инолашит отделка брони
 conarm:armor_trim:0, Орихалк отделка брони
-conarm:armor_trim:0, Мидасий отделка брони
 conarm:armor_trim:0, Теневая Сталь отделка брони
+conarm:armor_trim:0, Мидасий отделка брони
 conarm:armor_trim:0, Крик отделка брони
 conarm:armor_plate:0, Деревянн. Пластина
 conarm:armor_plate:0, Каменн. Пластина
@@ -7651,8 +7672,8 @@ conarm:armor_plate:0, Ртуть Пластина
 conarm:armor_plate:0, Латунь Пластина
 conarm:armor_plate:0, Астральное Серебро Пластина
 conarm:armor_plate:0, Гепатизон Пластина
-conarm:armor_plate:0, Сангвинит Пластина
 conarm:armor_plate:0, Экзимит Пластина
+conarm:armor_plate:0, Сангвинит Пластина
 conarm:armor_plate:0, Дезичалк Пластина
 conarm:armor_plate:0, Целенгил Пластина
 conarm:armor_plate:0, Теневое Железо Пластина
@@ -7674,8 +7695,8 @@ conarm:armor_plate:0, material.metallurgy.osmium.name Пластина
 conarm:armor_plate:0, Ореклаз Пластина
 conarm:armor_plate:0, Инолашит Пластина
 conarm:armor_plate:0, Орихалк Пластина
-conarm:armor_plate:0, Мидасий Пластина
 conarm:armor_plate:0, Теневая Сталь Пластина
+conarm:armor_plate:0, Мидасий Пластина
 conarm:armor_plate:0, Крик Пластина
 conarm:chest_core:0, Деревянн. ядро нагрудника
 conarm:chest_core:0, Каменн. ядро нагрудника
@@ -7714,8 +7735,8 @@ conarm:chest_core:0, Ртуть ядро нагрудника
 conarm:chest_core:0, Латунь ядро нагрудника
 conarm:chest_core:0, Астральное Серебро ядро нагрудника
 conarm:chest_core:0, Гепатизон ядро нагрудника
-conarm:chest_core:0, Сангвинит ядро нагрудника
 conarm:chest_core:0, Экзимит ядро нагрудника
+conarm:chest_core:0, Сангвинит ядро нагрудника
 conarm:chest_core:0, Дезичалк ядро нагрудника
 conarm:chest_core:0, Целенгил ядро нагрудника
 conarm:chest_core:0, Теневое Железо ядро нагрудника
@@ -7737,8 +7758,8 @@ conarm:chest_core:0, material.metallurgy.osmium.name ядро нагрудник
 conarm:chest_core:0, Ореклаз ядро нагрудника
 conarm:chest_core:0, Инолашит ядро нагрудника
 conarm:chest_core:0, Орихалк ядро нагрудника
-conarm:chest_core:0, Мидасий ядро нагрудника
 conarm:chest_core:0, Теневая Сталь ядро нагрудника
+conarm:chest_core:0, Мидасий ядро нагрудника
 conarm:chest_core:0, Крик ядро нагрудника
 conarm:leggings_core:0, Деревянн. ядро понож
 conarm:leggings_core:0, Каменн. ядро понож
@@ -7777,8 +7798,8 @@ conarm:leggings_core:0, Ртуть ядро понож
 conarm:leggings_core:0, Латунь ядро понож
 conarm:leggings_core:0, Астральное Серебро ядро понож
 conarm:leggings_core:0, Гепатизон ядро понож
-conarm:leggings_core:0, Сангвинит ядро понож
 conarm:leggings_core:0, Экзимит ядро понож
+conarm:leggings_core:0, Сангвинит ядро понож
 conarm:leggings_core:0, Дезичалк ядро понож
 conarm:leggings_core:0, Целенгил ядро понож
 conarm:leggings_core:0, Теневое Железо ядро понож
@@ -7800,8 +7821,8 @@ conarm:leggings_core:0, material.metallurgy.osmium.name ядро понож
 conarm:leggings_core:0, Ореклаз ядро понож
 conarm:leggings_core:0, Инолашит ядро понож
 conarm:leggings_core:0, Орихалк ядро понож
-conarm:leggings_core:0, Мидасий ядро понож
 conarm:leggings_core:0, Теневая Сталь ядро понож
+conarm:leggings_core:0, Мидасий ядро понож
 conarm:leggings_core:0, Крик ядро понож
 conarm:boots_core:0, Деревянн. ядро ботинок
 conarm:boots_core:0, Каменн. ядро ботинок
@@ -7840,8 +7861,8 @@ conarm:boots_core:0, Ртуть ядро ботинок
 conarm:boots_core:0, Латунь ядро ботинок
 conarm:boots_core:0, Астральное Серебро ядро ботинок
 conarm:boots_core:0, Гепатизон ядро ботинок
-conarm:boots_core:0, Сангвинит ядро ботинок
 conarm:boots_core:0, Экзимит ядро ботинок
+conarm:boots_core:0, Сангвинит ядро ботинок
 conarm:boots_core:0, Дезичалк ядро ботинок
 conarm:boots_core:0, Целенгил ядро ботинок
 conarm:boots_core:0, Теневое Железо ядро ботинок
@@ -7863,8 +7884,8 @@ conarm:boots_core:0, material.metallurgy.osmium.name ядро ботинок
 conarm:boots_core:0, Ореклаз ядро ботинок
 conarm:boots_core:0, Инолашит ядро ботинок
 conarm:boots_core:0, Орихалк ядро ботинок
-conarm:boots_core:0, Мидасий ядро ботинок
 conarm:boots_core:0, Теневая Сталь ядро ботинок
+conarm:boots_core:0, Мидасий ядро ботинок
 conarm:boots_core:0, Крик ядро ботинок
 conarm:helmet, шлем
 conarm:chestplate, нагрудник
@@ -7929,8 +7950,8 @@ conarm:polishing_kit:0, Ртуть Набор для полировки
 conarm:polishing_kit:0, Латунь Набор для полировки
 conarm:polishing_kit:0, Астральное Серебро Набор для полировки
 conarm:polishing_kit:0, Гепатизон Набор для полировки
-conarm:polishing_kit:0, Сангвинит Набор для полировки
 conarm:polishing_kit:0, Экзимит Набор для полировки
+conarm:polishing_kit:0, Сангвинит Набор для полировки
 conarm:polishing_kit:0, Дезичалк Набор для полировки
 conarm:polishing_kit:0, Целенгил Набор для полировки
 conarm:polishing_kit:0, Теневое Железо Набор для полировки
@@ -7952,8 +7973,8 @@ conarm:polishing_kit:0, material.metallurgy.osmium.name Набор для пол
 conarm:polishing_kit:0, Ореклаз Набор для полировки
 conarm:polishing_kit:0, Инолашит Набор для полировки
 conarm:polishing_kit:0, Орихалк Набор для полировки
-conarm:polishing_kit:0, Мидасий Набор для полировки
 conarm:polishing_kit:0, Теневая Сталь Набор для полировки
+conarm:polishing_kit:0, Мидасий Набор для полировки
 conarm:polishing_kit:0, Крик Набор для полировки
 conarm:armorforge:0, Кузня брони
 conarm:armorforge:0, Кузня брони
@@ -7975,24 +7996,17 @@ conarm:armorforge:0, Кузня брони
 conarm:armorforge:0, Кузня брони
 conarm:armorforge:0, Кузня брони
 conarm:armorstation:0, Станция брони
-ironchest:iron_gold_chest_upgrade, Улучшение из железного в золотой сундук
-ironchest:gold_diamond_chest_upgrade, Улучшение из золотого в алмазный сундук
-ironchest:copper_silver_chest_upgrade, Улучшение из медного в серебряный сундук
-ironchest:silver_gold_chest_upgrade, Улучшение из серебряного в золотой сундук
-ironchest:copper_iron_chest_upgrade, Улучшение из медного в железный сундук
-ironchest:diamond_crystal_chest_upgrade, Улучшение из алмазного в кристальный сундук
-ironchest:wood_iron_chest_upgrade, Улучшение из деревянного в железный сундук
-ironchest:wood_copper_chest_upgrade, Улучшение из деревянного в медный сундук
-ironchest:diamond_obsidian_chest_upgrade, Улучшение из алмазного в обсидиановый сундук
-ironchest:iron_gold_shulker_upgrade, Улучшение из железного в золотой Шалкеровый ящик
-ironchest:gold_diamond_shulker_upgrade, Улучшение из золотого в алмазный Шалкеровый ящик
-ironchest:copper_silver_shulker_upgrade, Улучшение из медного в серебряный Шалкеровый ящик
-ironchest:silver_gold_shulker_upgrade, Улучшение из серебряного в золотой Шалкеровый ящик
-ironchest:copper_iron_shulker_upgrade, Улучшение из медного в железный Шалкеровый ящик
-ironchest:diamond_crystal_shulker_upgrade, Улучшение из алмазного в кристальный Шалкеровый ящик
-ironchest:vanilla_iron_shulker_upgrade, Улучшение из обычного в железный Шалкеровый ящик
-ironchest:vanilla_copper_shulker_upgrade, Улучшение из обычного в медный Шалкеровый ящик
-ironchest:diamond_obsidian_shulker_upgrade, Улучшение из алмазного в обсидиановый Шалкеровый ящик
+epicfight:katana, Katana
+epicfight:katana_sheath, item.katana_sheath.name
+epicfight:greatsword, Great Sword
+epicfight:stone_spear, Stone Spear
+epicfight:iron_spear, Iron Spear
+epicfight:golden_spear, Golden Spear
+epicfight:diamond_spear, Diamond Spear
+epicfight:stray_hat, Stray Hat
+epicfight:stray_robe, Stray Robe
+epicfight:stray_pants, Stray Pants
+epicfight:skill_book, Skill Book
 ironchest:iron_chest:0, Железный сундук
 ironchest:iron_chest:1, Золотой сундук
 ironchest:iron_chest:2, Алмазный сундук
@@ -8113,6 +8127,24 @@ ironchest:iron_shulker_box_black:3, Чёрный Медный Шалкеровы
 ironchest:iron_shulker_box_black:4, Чёрный Серебряный Шалкеровый ящик
 ironchest:iron_shulker_box_black:5, Чёрный Кристальный Шалкеровый ящик
 ironchest:iron_shulker_box_black:6, Чёрный Обсидиановый Шалкеровый ящик
+ironchest:iron_gold_chest_upgrade, Улучшение из железного в золотой сундук
+ironchest:gold_diamond_chest_upgrade, Улучшение из золотого в алмазный сундук
+ironchest:copper_silver_chest_upgrade, Улучшение из медного в серебряный сундук
+ironchest:silver_gold_chest_upgrade, Улучшение из серебряного в золотой сундук
+ironchest:copper_iron_chest_upgrade, Улучшение из медного в железный сундук
+ironchest:diamond_crystal_chest_upgrade, Улучшение из алмазного в кристальный сундук
+ironchest:wood_iron_chest_upgrade, Улучшение из деревянного в железный сундук
+ironchest:wood_copper_chest_upgrade, Улучшение из деревянного в медный сундук
+ironchest:diamond_obsidian_chest_upgrade, Улучшение из алмазного в обсидиановый сундук
+ironchest:iron_gold_shulker_upgrade, Улучшение из железного в золотой Шалкеровый ящик
+ironchest:gold_diamond_shulker_upgrade, Улучшение из золотого в алмазный Шалкеровый ящик
+ironchest:copper_silver_shulker_upgrade, Улучшение из медного в серебряный Шалкеровый ящик
+ironchest:silver_gold_shulker_upgrade, Улучшение из серебряного в золотой Шалкеровый ящик
+ironchest:copper_iron_shulker_upgrade, Улучшение из медного в железный Шалкеровый ящик
+ironchest:diamond_crystal_shulker_upgrade, Улучшение из алмазного в кристальный Шалкеровый ящик
+ironchest:vanilla_iron_shulker_upgrade, Улучшение из обычного в железный Шалкеровый ящик
+ironchest:vanilla_copper_shulker_upgrade, Улучшение из обычного в медный Шалкеровый ящик
+ironchest:diamond_obsidian_shulker_upgrade, Улучшение из алмазного в обсидиановый Шалкеровый ящик
 metallurgy:phosphorus_lamp, Фосфорный фонарь
 metallurgy:road_block, Дорога
 metallurgy:striped_road_block, Полосатая дорога
@@ -8261,17 +8293,6 @@ metallurgy:ignatius_helmet, Игнатиусовый шлем
 metallurgy:ignatius_chestplate, Игнатиусовая кираса
 metallurgy:ignatius_leggings, Игнатиусовые поножи
 metallurgy:ignatius_boots, Игнатиусовые ботинки
-metallurgy:zinc_ore, Цинковая руда
-metallurgy:zinc_block, Блок цинка
-metallurgy:zinc_engraved_block, Цинковый обработанный блок
-metallurgy:zinc_large_bricks, Цинковый большой кирпич
-metallurgy:zinc_bricks, Цинковый кирпич
-metallurgy:zinc_crystals, Цинковые кристаллы
-metallurgy:zinc_hazard_block, Цинковый полосатый блок
-metallurgy:zinc_reinforced_glass, Цинковое усиленное стекло
-metallurgy:zinc_ingot, Слиток цинка
-metallurgy:zinc_dust, Цинковая пыль
-metallurgy:zinc_nugget, Цинковый самородок
 metallurgy:etherium_block, Блок этерия
 metallurgy:etherium_engraved_block, Этериумный обработанный блок
 metallurgy:etherium_large_bricks, Этериумный большой кирпич
@@ -8291,6 +8312,17 @@ metallurgy:etherium_helmet, Этериумный шлем
 metallurgy:etherium_chestplate, Этериумная кираса
 metallurgy:etherium_leggings, Этериумные поножи
 metallurgy:etherium_boots, Этериумные ботинки
+metallurgy:zinc_ore, Цинковая руда
+metallurgy:zinc_block, Блок цинка
+metallurgy:zinc_engraved_block, Цинковый обработанный блок
+metallurgy:zinc_large_bricks, Цинковый большой кирпич
+metallurgy:zinc_bricks, Цинковый кирпич
+metallurgy:zinc_crystals, Цинковые кристаллы
+metallurgy:zinc_hazard_block, Цинковый полосатый блок
+metallurgy:zinc_reinforced_glass, Цинковое усиленное стекло
+metallurgy:zinc_ingot, Слиток цинка
+metallurgy:zinc_dust, Цинковая пыль
+metallurgy:zinc_nugget, Цинковый самородок
 metallurgy:quicksilver_block, Блок ртути
 metallurgy:quicksilver_engraved_block, Ртутный обработанный блок
 metallurgy:quicksilver_large_bricks, Ртутный большой кирпич
@@ -8398,26 +8430,6 @@ metallurgy:lemurite_reinforced_glass, Лемуритовое усиленное 
 metallurgy:lemurite_ingot, Слиток лемурита
 metallurgy:lemurite_dust, Лемуритовая пыль
 metallurgy:lemurite_nugget, Лемуритовый самородок
-metallurgy:sanguinite_ore, Сангвинитовая руда
-metallurgy:sanguinite_block, Блок сангвинита
-metallurgy:sanguinite_engraved_block, Сангвинитовый обработанный блок
-metallurgy:sanguinite_large_bricks, Сангвинитовый большой кирпич
-metallurgy:sanguinite_bricks, Сангвинитовый кирпич
-metallurgy:sanguinite_crystals, Сангвинитовые кристаллы
-metallurgy:sanguinite_hazard_block, Сангвинитовый полосатый блок
-metallurgy:sanguinite_reinforced_glass, Сангвинитовые усиленное стекло
-metallurgy:sanguinite_ingot, Слиток сангвинита
-metallurgy:sanguinite_dust, Сангвинитовая пыль
-metallurgy:sanguinite_nugget, Сангвинитовый самородок
-metallurgy:sanguinite_axe, Сангвинитовый топор
-metallurgy:sanguinite_hoe, Сангвинитовая мотыга
-metallurgy:sanguinite_pickaxe, Сангвинитовая кирка
-metallurgy:sanguinite_shovel, Сангвинитовая лопата
-metallurgy:sanguinite_sword, Сангвинитовый меч
-metallurgy:sanguinite_helmet, Сангвинитовый шлем
-metallurgy:sanguinite_chestplate, Сангвинитовая кираса
-metallurgy:sanguinite_leggings, Сангвинитовые поножи
-metallurgy:sanguinite_boots, Сангвинитовые ботинки
 metallurgy:eximite_ore, Экзимитовая руда
 metallurgy:eximite_block, Блок экзимита
 metallurgy:eximite_engraved_block, Экзимитовый обработанный блок
@@ -8438,6 +8450,26 @@ metallurgy:eximite_helmet, Экзимитовый шлем
 metallurgy:eximite_chestplate, Экзимитовая кираса
 metallurgy:eximite_leggings, Экзимитовые поножи
 metallurgy:eximite_boots, Экзимитовые ботинки
+metallurgy:sanguinite_ore, Сангвинитовая руда
+metallurgy:sanguinite_block, Блок сангвинита
+metallurgy:sanguinite_engraved_block, Сангвинитовый обработанный блок
+metallurgy:sanguinite_large_bricks, Сангвинитовый большой кирпич
+metallurgy:sanguinite_bricks, Сангвинитовый кирпич
+metallurgy:sanguinite_crystals, Сангвинитовые кристаллы
+metallurgy:sanguinite_hazard_block, Сангвинитовый полосатый блок
+metallurgy:sanguinite_reinforced_glass, Сангвинитовые усиленное стекло
+metallurgy:sanguinite_ingot, Слиток сангвинита
+metallurgy:sanguinite_dust, Сангвинитовая пыль
+metallurgy:sanguinite_nugget, Сангвинитовый самородок
+metallurgy:sanguinite_axe, Сангвинитовый топор
+metallurgy:sanguinite_hoe, Сангвинитовая мотыга
+metallurgy:sanguinite_pickaxe, Сангвинитовая кирка
+metallurgy:sanguinite_shovel, Сангвинитовая лопата
+metallurgy:sanguinite_sword, Сангвинитовый меч
+metallurgy:sanguinite_helmet, Сангвинитовый шлем
+metallurgy:sanguinite_chestplate, Сангвинитовая кираса
+metallurgy:sanguinite_leggings, Сангвинитовые поножи
+metallurgy:sanguinite_boots, Сангвинитовые ботинки
 metallurgy:silver_ore, Серебрянная руда
 metallurgy:silver_block, Блок серебра
 metallurgy:silver_engraved_block, Серебряный обработанный блок
@@ -8496,25 +8528,6 @@ metallurgy:celenegil_helmet, Целенгилевый шлем
 metallurgy:celenegil_chestplate, Целенгилевая кираса
 metallurgy:celenegil_leggings, Целенгилевые поножи
 metallurgy:celenegil_boots, Целенгилевые ботинки
-metallurgy:steel_block, Блок стали
-metallurgy:steel_engraved_block, Стальной обработанный блок
-metallurgy:steel_large_bricks, Стальной большой кирпич
-metallurgy:steel_bricks, Стальный кирпич
-metallurgy:steel_crystals, Стальные кристаллы
-metallurgy:steel_hazard_block, Стальной полосатый блок
-metallurgy:steel_reinforced_glass, Стальное усиленное стекло
-metallurgy:steel_ingot, Слиток стали
-metallurgy:steel_dust, Стальная пыль
-metallurgy:steel_nugget, Стальной самородок
-metallurgy:steel_axe, Стальной топор
-metallurgy:steel_hoe, Стальная мотыга
-metallurgy:steel_pickaxe, Стальная кирка
-metallurgy:steel_shovel, Стальная лопата
-metallurgy:steel_sword, Стальной меч
-metallurgy:steel_helmet, Стальной шлем
-metallurgy:steel_chestplate, Стальная кираса
-metallurgy:steel_leggings, Стальные поножи
-metallurgy:steel_boots, Стальные ботинки
 metallurgy:shadow_iron_ore, Руда теневого железа
 metallurgy:shadow_iron_block, Блок теневого железа
 metallurgy:shadow_iron_engraved_block, Обработанный блок из теневого железа
@@ -8535,6 +8548,25 @@ metallurgy:shadow_iron_helmet, Шлем из теневого железа
 metallurgy:shadow_iron_chestplate, Кираса из теневого железа
 metallurgy:shadow_iron_leggings, Поножи из теневого железа
 metallurgy:shadow_iron_boots, Ботинки из теневого железа
+metallurgy:steel_block, Блок стали
+metallurgy:steel_engraved_block, Стальной обработанный блок
+metallurgy:steel_large_bricks, Стальной большой кирпич
+metallurgy:steel_bricks, Стальный кирпич
+metallurgy:steel_crystals, Стальные кристаллы
+metallurgy:steel_hazard_block, Стальной полосатый блок
+metallurgy:steel_reinforced_glass, Стальное усиленное стекло
+metallurgy:steel_ingot, Слиток стали
+metallurgy:steel_dust, Стальная пыль
+metallurgy:steel_nugget, Стальной самородок
+metallurgy:steel_axe, Стальной топор
+metallurgy:steel_hoe, Стальная мотыга
+metallurgy:steel_pickaxe, Стальная кирка
+metallurgy:steel_shovel, Стальная лопата
+metallurgy:steel_sword, Стальной меч
+metallurgy:steel_helmet, Стальной шлем
+metallurgy:steel_chestplate, Стальная кираса
+metallurgy:steel_leggings, Стальные поножи
+metallurgy:steel_boots, Стальные ботинки
 metallurgy:mithril_ore, Мифриловая руда
 metallurgy:mithril_block, Блок мифрила
 metallurgy:mithril_engraved_block, Мифриловый обработанный блок
@@ -8952,6 +8984,25 @@ metallurgy:infuscolium_reinforced_glass, Инфусколиевое усилен
 metallurgy:infuscolium_ingot, Слиток инфусколия
 metallurgy:infuscolium_dust, Инфусколиевая пыль
 metallurgy:infuscolium_nugget, Инфусколиевый самородок
+metallurgy:shadow_steel_block, Блок теневой стали
+metallurgy:shadow_steel_engraved_block, Обработанный блок из теневой стали
+metallurgy:shadow_steel_large_bricks, Большой кирпич из теневой стали
+metallurgy:shadow_steel_bricks, Кирпич из теневой стали
+metallurgy:shadow_steel_crystals, Кристаллы из теневой стали
+metallurgy:shadow_steel_hazard_block, Полосатый блок из теневой стали
+metallurgy:shadow_steel_reinforced_glass, Усиленное стекло из теневой стали
+metallurgy:shadow_steel_ingot, Слиток теневой стали
+metallurgy:shadow_steel_dust, Пыль теневой стали
+metallurgy:shadow_steel_nugget, Самородок теневой стали
+metallurgy:shadow_steel_axe, Топор из теневой стали
+metallurgy:shadow_steel_hoe, Мотыга из теневой стали
+metallurgy:shadow_steel_pickaxe, Кирка из теневой стали
+metallurgy:shadow_steel_shovel, Лопата из теневой стали
+metallurgy:shadow_steel_sword, Меч из теневой стали
+metallurgy:shadow_steel_helmet, Шлем из теневой стали
+metallurgy:shadow_steel_chestplate, Кираса из теневой стали
+metallurgy:shadow_steel_leggings, Поножи из теневой стали
+metallurgy:shadow_steel_boots, Ботинки из теневой стали
 metallurgy:midasium_ore, Мидасиевая руда
 metallurgy:midasium_block, Блок мидасия
 metallurgy:midasium_engraved_block, Мидасиумный обработанный блок
@@ -8972,25 +9023,6 @@ metallurgy:midasium_helmet, Мидасиевый шлем
 metallurgy:midasium_chestplate, Мидасиевая кираса
 metallurgy:midasium_leggings, Мидасиевые поножи
 metallurgy:midasium_boots, Мидасиевые ботинки
-metallurgy:shadow_steel_block, Блок теневой стали
-metallurgy:shadow_steel_engraved_block, Обработанный блок из теневой стали
-metallurgy:shadow_steel_large_bricks, Большой кирпич из теневой стали
-metallurgy:shadow_steel_bricks, Кирпич из теневой стали
-metallurgy:shadow_steel_crystals, Кристаллы из теневой стали
-metallurgy:shadow_steel_hazard_block, Полосатый блок из теневой стали
-metallurgy:shadow_steel_reinforced_glass, Усиленное стекло из теневой стали
-metallurgy:shadow_steel_ingot, Слиток теневой стали
-metallurgy:shadow_steel_dust, Пыль теневой стали
-metallurgy:shadow_steel_nugget, Самородок теневой стали
-metallurgy:shadow_steel_axe, Топор из теневой стали
-metallurgy:shadow_steel_hoe, Мотыга из теневой стали
-metallurgy:shadow_steel_pickaxe, Кирка из теневой стали
-metallurgy:shadow_steel_shovel, Лопата из теневой стали
-metallurgy:shadow_steel_sword, Меч из теневой стали
-metallurgy:shadow_steel_helmet, Шлем из теневой стали
-metallurgy:shadow_steel_chestplate, Кираса из теневой стали
-metallurgy:shadow_steel_leggings, Поножи из теневой стали
-metallurgy:shadow_steel_boots, Ботинки из теневой стали
 metallurgy:krik_block, Блок крика
 metallurgy:krik_engraved_block, Криковый обработанный блок
 metallurgy:krik_large_bricks, Криковый большой кирпич
@@ -9151,6 +9183,7 @@ thaumicaugmentation:rift_jar:0, Reinforced Jar
 thaumicaugmentation:rift_jar:0, Rift in a Jar
 thaumicaugmentation:impetus_mirror:0, Impetus Mirror
 thaumicaugmentation:impetus_linker:0, Impetus Resonator
+thaumicaugmentation:biome_selector:0, Biome Focus
 thaumicaugmentation:biome_selector:0, Biome Focus
 thaumicaugmentation:biome_selector:0, Biome Focus
 thaumicaugmentation:biome_selector:0, Biome Focus
@@ -10178,4 +10211,83 @@ customnpcs:npcscripted, Скриптовый блок
 customnpcs:npcscripteddoor, tile.npcscripteddoor.name
 customnpcs:npcbuilderblock, Строительный блок
 customnpcs:npccopyblock, Копировальный блок
+tech:technium, Техниум
+tech:techniumore, Техниум руда
+tech:techniumdust, Техно пыль
+tech:tehcniunsword, Техниум меч
+tech:tehcniumstuffhelmet, Tehcnium Helmet
+tech:tehcniumstuffbody, техно кираса
+tech:tehcniumstufflegs, Техно поножи
+tech:tehcniumstuffboots, Техниум ботинки
+tech:techpick, техниум кирка
+tech:nerf, Нерфер
+tech:greatapple, Превосходное яблоко
+tech:greatapplebitten, надкусаное превосходное яблоко
+tech:applegreatbitten, надкусаное превосходное яблоко
+tech:planb, План Б
+tech:supercoin, Супер монета
+tech:normalhelmet, Техно Шлем
+tech:normalbody, Техно кираса
+tech:normallegs, Техно поножи
+tech:normalboots, Техно ботинки
+tech:supertechnohelmet, Супер техно шлем
+tech:supertechnobody, модифицированная техно кираса
+tech:supertechnolegs, модифицированные техно ботинки
+tech:supertechnoboots, Модифицированые техно ботинки 
+tech:silvercoin, Железная монета
+tech:goldcoin, золотая монета
+tech:diamondcoin, Алмазная монета
+tech:goldmany, пачка золотых монет
+tech:manydiamondgold, пачка алмазных монет
+tech:technoblock, Техно блок
+tech:wiredust, Проводящяя пыль
+tech:hammerbrain, Hammer Brain
+tech:multitool, мульти инструмент
+tech:technumore, Техниум руда
+tech:oreignort, Красный техно слиток
+tech:redore, Красная руда
+tech:redtechnosword, Red Techno Sword
+tech:redtechnoorb, Красная техно сфера
+tech:bazoka, Энерго меч
+tech:invswallmustfly, Невидимая стена нужен баф полета 
+tech:deathzone, Зона смерти
+tech:redtechignortblock, Redtech Ignort Block
+tech:redtechnoblockcrush, Redtechnoblockcrush
+tech:redblockcrush1, Redtechnoblockcrush
+tech:redblockcrush2, Redtechnoblockcrush
+tech:dungedonwall, Dungedon Wall
+tech:dungedonbot1, Dungedonbot1
+tech:dungedonbot2, Dungedonbot2
+tech:dungedontop, Dungedonbot2
+tech:dungedonwall2, Dungedonbot2
+tech:dungedonwall3, Dungedonbot2
+tech:dungedonlamp, Dungedonbot2
+tech:cruisercall, призывалка босса
+tech:redtechnoblock, Red Techno Block
+tech:armorcore, не используется
+tech:acids, tile.acids.name
+tech:totaldefencehelmet, все-защитный шлем
+tech:totaldefencebody, все-защитная кираса
+tech:totaldefencelegs, все-защитные поножи
+tech:totaldefenceboots, все-защитные ботинки
+tech:wip1, WIP1
+tech:wip2, Wip2
+tech:techbrick, Techbrick
+tech:birktech, Техно кирпичи
+tech:badoak, Плохое дерво
+tech:badoakore, Badoak
+tech:donatestuffhelmet, Квантово-ихоровый капюшон 
+tech:donatestuffbody, Квантово-ихоровая кираса
+tech:donatestufflegs, Квантово-ихоровые шаровары
+tech:donatestuffboots, Квантово-ихоровые ботинки
+tech:redorbhelmet, Red Orb Helmet
+tech:redorbbody, Red Orb Body
+tech:redorblegs, Red Orb Leggings
+tech:redorbboots, Red Orb Boots
+tech:kitstart, Стартовый набор
+tech:newbiehelmet, Шлем новичка
+tech:newbiebody, Кираса новичка
+tech:newbielegs, Newbie Leggings
+tech:newbieboots, Ботинки новичка
+tech:chainsawtech, Техно Энергопила 
 guideapi:bloodmagic-guide, item.guideapi.book.bloodmagic.guide.name

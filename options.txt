@@ -99,15 +99,15 @@ key_key.configurator_mode.desc:47
 key_key.configurator_filter.desc:48
 key_key.configurator_path.desc:34
 key_keybind.baublesinventory:48
+key_key.conarm.toggle_helm.desc:34
+key_key.conarm.toggle_chest.desc:35
+key_key.conarm.toggle_leg.desc:36
 key_bloodmagic.keybind.open_holding:35
 key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
 key_bloodmagic.keybind.cycle_holding_neg:12:SHIFT
 key_key.cavern.miningAssist:47
 key_key.cavern.miningRecords:88
-key_key.cavern.magicBook:0
-key_key.conarm.toggle_helm.desc:34
-key_key.conarm.toggle_chest.desc:35
-key_key.conarm.toggle_leg.desc:36
+key_key.cavern.magicBook:-96
 key_Scene1 start/pause:79
 key_Scene2 start/pause:80
 key_Scene3 start/pause:81
@@ -115,6 +115,11 @@ key_Scene reset:82
 key_Quest Log:38
 key_keybind.hammercorerenderstack:77
 key_neat.keybind.toggle:0
+key_pe.key.armor_toggle:45
+key_pe.key.charge:47
+key_pe.key.extra_function:0
+key_pe.key.fire_projectile:19
+key_pe.key.mode:34
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -128,10 +133,12 @@ key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
 key_key.toggle_focus.desc:15
 key_nei.options.keys.gui.botania_corporea_request:0
-key_key.epicfight.show_tooltip:25
-key_key.epicfight.switch_mode:26
-key_key.epicfight.dodge:42
-key_invtweaks.key.sort:19
+key_waila.keybind.wailaconfig:82
+key_waila.keybind.wailadisplay:79
+key_waila.keybind.liquid:80
+key_waila.keybind.recipe:81
+key_waila.keybind.usage:75
+key_invtweaks.key.sort:43
 key_worldeditcuife3.key.cui.options:0
 key_worldeditcuife3.key.cui.toggle.visibility:0
 key_worldeditcuife3.key.cui.clear.selection:0
